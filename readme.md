@@ -21,20 +21,49 @@ Ik moest eigenlijk achter alles komen voor duidelijkheid vanuit de docenten zowe
 - Contact met Rogier: gaf aan dat de @videlio.nl email niet op zijn telefoon zat en dat hij niet op zijn computer heeft gekeken. (Hoe heeft het andere groepje WEL een reactie van hem gekregen?). Ik heb met Rogeir besproken wat wij nu het beste kunnen doen:
 
 - Wij gaan eerder dan het eerste groepje naar Utrecht om 12 uur
-- Rogier op Signal zodat wij via berichten makkelijker contact konden opnemen
+- Rogier en Peter op Signal zodat wij op die manier met ze kunnen communiceren
+- Aanstaande vrijdag leggen we samen de tijdstippen voor de komende vrijdagen vast.
+- Tussen door kunnen we wanneer nodig met signal ook bellen
 
 Tot nu toe ben ik eigenlijk helemaal niet tevreden over hoe het contact met onze coach verloopt, omdat ik via andere docenten moest achterhalen wat het plan was. Ik hoop daarom dat hier in de toekomst verbetering in komt.
 
 #### Wat gaan we morgen doen
 
 #### Alisha
-Een klein prototype maken van de homepage. De taak die ik aan mezelf geef is een een opzet maken.
+Een klein prototype maken van de homepage. De taak die ik aan mezelf geef is een een opzet maken. Omdat wij veel vrijheid krijgen en hun bedrijf in Rogiers woorden: "pioniers" zijn. Wil ik ook echt iets neerzetten dat out-of-the-box is.
 
 ## Woensdag 20 mei - dag 3
 ## Donderdag 21 mei - dag 4
 ## Vrijdag 22 mei - dag 5
+
 # Week 2
+## Dinsdag 26 mei - dag 6
+## Woensdag 27 mei - dag 7
+## Donderdag 28 mei - dag 8
+## Vrijdag 29 mei - dag 9
+
 # Week 3
+## Maandag 1 juni - dag 10
+## Dinsdag 2 juni - dag 11
+## Woensdag 3 juni - dag 12
+## Donderdag 4 juni - dag 13
+## Vrijdag 5 juni - dag 14
+
 # Week 4
-# Week 5
-## Reflecties
+## Maandag 8 juni - dag 15
+## Dinsdag 9 juni - dag 16
+## Woensdag 10 juni - dag 17
+## Donderdag 11 juni - dag 18
+## Vrijdag 12 juni - dag 19
+
+# Week 5 eind
+## Maandag 15 juni - dag 20
+## Dinsdag 16 juni - dag 21
+## Woensdag 17 juni - dag 22
+## Donderdag 18 juni - dag 23
+## Vrijdag 19 juni - dag 24
+### Laatste dag
+
+## Reflectie
+
+# Bronnen
