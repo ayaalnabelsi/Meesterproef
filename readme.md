@@ -1,10 +1,14 @@
 # Meesterschap
 
 # Week 1
-## Maandag 17 mei - dag 1
-Groepjes aangewezen gekregen.
-Notion, Teams groep, debrief van de opdracht (nog steeds vaag)
-## Dinsdag 18 mei - dag 2
+## Maandag 18 mei - dag 1
+Vandaag zijn we gestart met de Meesterproef. Nadat de groepjes waren ingedeeld, hebben we als team meteen een Teams-groep aangemaakt om makkelijker met elkaar te communiceren en afspraken te maken.
+Daarnaast hebben we een Notion-bestand opgezet. Hierin verzamelen we onze notities, afspraken en taakverdeling. Voor de eerste opdracht hebben we de taken verdeeld rondom het maken van de debrief voor de opdrachtgever.
+
+Ook hebben we een Word-document aangemaakt voor onze design rationale. Dit document gebruiken we om onze keuzes, onderbouwing en processtappen vast te leggen. We zijn begonnen met het invullen van dit document op basis van de taakverdeling die we in Notion hadden gemaakt.
+
+Aan het einde van de dag hebben we de debrief afgerond en alvast vragen opgesteld voor de opdrachtgever. Deze vragen willen we de volgende dag stellen, zodat we een duidelijker en completer beeld krijgen van de opdracht en de verwachtingen.
+## Dinsdag 19 mei - dag 2
 
 ### Wat hebben we gedaan vandaag?
 #### Alisha
