@@ -1,6 +1,7 @@
 # Meesterschap
 
-## Dinsdag 17 mei - dag 1
+# Week 1
+## Maandag 17 mei - dag 1
 Groepjes aangewezen gekregen.
 Notion, Teams groep, debrief van de opdracht (nog steeds vaag)
 ## Dinsdag 18 mei - dag 2
@@ -28,3 +29,12 @@ Tot nu toe ben ik eigenlijk helemaal niet tevreden over hoe het contact met onze
 
 #### Alisha
 Een klein prototype maken van de homepage. De taak die ik aan mezelf geef is een een opzet maken.
+
+## Woensdag 20 mei - dag 3
+## Donderdag 21 mei - dag 4
+## Vrijdag 22 mei - dag 5
+# Week 2
+# Week 3
+# Week 4
+# Week 5
+## Reflecties
