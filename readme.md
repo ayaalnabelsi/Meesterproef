@@ -27,8 +27,16 @@ Ik moest eigenlijk achter alles komen voor duidelijkheid vanuit de docenten zowe
 
 Tot nu toe ben ik eigenlijk helemaal niet tevreden over hoe het contact met onze coach verloopt, omdat ik via andere docenten moest achterhalen wat het plan was. Ik hoop daarom dat hier in de toekomst verbetering in komt.
 
-#### Wat gaan we morgen doen
+#### Aya A
+Ik heb vandaag actief bijgedragen aan de voorbereiding van de documenten voor dit project. Ik heb een groepsapp en een Notion bord opgezet, zodat de communicatie en samenwerking tijdens het project overzichtelijk verlopen en alles voor iedereen bijgehouden en terug te vinden is. Daarnaast heb ik belangrijke punten genoteerd en de taken voor de debriefing verdeeld, zodat duidelijk was wie welk onderdeel uitvoert.
+Verder heb ik de hoofdvraag, deelvragen en interviewvragen opgesteld. Ook heb ik Roger een email gestuurd met het verzoek om een afspraak in te plannen.
 
+
+#### Aya B
+
+#### Patoune
+
+#### Wat gaan we morgen doen
 #### Alisha
 Een klein prototype maken van de homepage. De taak die ik aan mezelf geef is een een opzet maken. Omdat wij veel vrijheid krijgen en hun bedrijf in Rogers woorden: "pioniers" zijn. Wil ik ook echt iets neerzetten dat out-of-the-box is.
 
