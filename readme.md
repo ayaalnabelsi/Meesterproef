@@ -44,6 +44,19 @@ De workshop van Leonie gedaan:
 - Schrijf op wat de uitkomsten zijn van de tests
 - Voor de tweede week een testpersoon vinden die niet bij Videlio werkt
 - 11:30 met Leonie op dinsdag (maandag is een vrije dag)
+  
+#### Patoune
+##### Hoe ga je testen? (Leonie)
+
+- behandel elke keer als we hem zien ook als een test
+- Het zou handig zijn om over twee weken een andere test in te plannen (die slechtziend is). Omdat Roger en Peter bij de stichting hoort en weten waar het over gaat. Het is handig om te zien of iemand buiten de stichting ook snapt waar het over gaat.
+- Gerichte vragen over de doelgroep, jonge mensen of mensen die wel kunnen zien?
+- Misschien ook een test met iemand die wel kan zien
+- Als je test met een nieuw persoon, is het belangrijk om te vertellen waarom je test, ook zeggen dat ze het niet fout kunnen doen, en open vragen stellen bijv hoe zou je naar deze pagina gaan?
+- Je eigen aannames uitleggen en checken of het klopt
+
+##### Doen voor vrijdag
+Iets maken wat we denken dat zij goed zouden vinden, alvast een klein prototype maken om te valideren om te kijken of dit goed is.
 
 ## Donderdag 21 mei - dag 4
 ## Vrijdag 22 mei - dag 5
