@@ -36,6 +36,25 @@ Tot nu toe ben ik eigenlijk helemaal niet tevreden over hoe het contact met onze
 #### Alisha
 Taken verdelen over welke pagina's wie gaat maken en wie wat precies gaat doen zodat we op vrijdag een prototype hebben waaar Roger iets mee kan. 
 ## Woensdag 20 mei - dag 3
+### Taakverdeling voor vrijdag
+
+#### Aya A
+- Footer
+- Buttons
+
+#### Aya B
+- Nav
+- Hero
+
+#### Alisha
+
+- Design maken van de v1
+- Ebook section veranderen naar iets anders
+
+#### Patoune
+- Ervaringen van de community
+- Sluit je aan bij de community section
+
 ### Wat hebben we gedaan vandaag?
 #### Alisha
 De workshop van Leonie gedaan:
@@ -43,7 +62,8 @@ De workshop van Leonie gedaan:
 - Schrijf op wat de uitkomsten zijn van de tests
 - Voor de tweede week een testpersoon vinden die niet bij Videlio werkt
 - 11:30 met Leonie op dinsdag (maandag is een vrije dag)
-  
+- Leonie gaf aan dat ze geen teams heeft op haar telefoon waardoor we niets hadden gehoord van haar
+
 #### Patoune
 ##### Hoe ga je testen? (Leonie)
 
@@ -56,6 +76,7 @@ De workshop van Leonie gedaan:
 
 ##### Doen voor vrijdag
 Iets maken wat we denken dat zij goed zouden vinden, alvast een klein prototype maken om te valideren om te kijken of dit goed is.
+
 
 ## Donderdag 21 mei - dag 4
 ## Vrijdag 22 mei - dag 5
