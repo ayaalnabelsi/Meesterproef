@@ -37,6 +37,14 @@ Tot nu toe ben ik eigenlijk helemaal niet tevreden over hoe het contact met onze
 Een klein prototype maken van de homepage. De taak die ik aan mezelf geef is een een opzet maken. Omdat wij veel vrijheid krijgen en hun bedrijf in Rogers woorden: "pioniers" zijn. Wil ik ook echt iets neerzetten dat out-of-the-box is.
 
 ## Woensdag 20 mei - dag 3
+### Wat hebben we gedaan vandaag?
+#### Alisha
+De workshop van Leonie gedaan:
+
+- Schrijf op wat de uitkomsten zijn van de tests
+- Voor de tweede week een testpersoon vinden die niet bij Videlio werkt
+- 11:30 met Leonie op dinsdag (maandag is een vrije dag)
+
 ## Donderdag 21 mei - dag 4
 ## Vrijdag 22 mei - dag 5
 
