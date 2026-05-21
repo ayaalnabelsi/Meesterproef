@@ -91,6 +91,24 @@ Iets maken wat we denken dat zij goed zouden vinden, alvast een klein prototype 
 
 
 ## Donderdag 21 mei - dag 4
+
+### Wat hebben we gedaan vandaag?
+
+#### Alisha
+- Workshop van Sanne
+- Pull request reviewed en approved
+- WN van Hans
+- Overal de planning strakker gemaakt en duidelijkere afspraken binnen het team besproken op initatief van Aya A
+- De V1 voor morgen klaar gezet voor Roger
+
+
+#### Wat gaan we morgen doen?
+
+#### Alisha
+- 12:00 bij Roger
+- Kennismaken met het team/bedrijf
+- Testen
+
 ## Vrijdag 22 mei - dag 5
 
 # Week 2
