@@ -44,8 +44,8 @@ Taken verdelen over welke pagina's wie gaat maken en wie wat precies gaat doen z
 
 # Donderdag 
 #### Aya A
-- Footer
-- Buttons
+- Footer → ontwerpen en ontwikkelen
+- Buttons → ontwerpen en ontwikkelen
 Ik heb in Figma een design gemaakt voor de styling van de buttons en de footer. Daarbij heb ik nagedacht over hoe de footer beter gestructureerd en gestyled kan worden, zodat deze overzichtelijker en gebruiksvriendelijker wordt. Dit ontwerp wil ik morgen testen met de opdrachtgever om feedback te verzamelen en eventuele verbeteringen door te voeren.
 Vervolgens ben ik aan de slag gegaan met het uitwerken van het design en het omzetten naar code, zodat het visueel ontwerp functioneel wordt op de website.
 
@@ -56,16 +56,16 @@ Daarnaast heb ik via Teams afspraken gemaakt binnen de groep over de aanwezighei
   <img src="readme-images/uitgewerkte versie.png" alt="">
 
 #### Aya B
-- Nav
+- Nav → ontwerpen en ontwikkelen
 - Hero
 #### Alisha
 
-- Design maken van de v1
-- Ebook section veranderen naar iets anders
+- Design maken van de v1 → hero en de project cards ontwerpen
+- Ebook section veranderen naar iets anders en ontwikkelen
 
 #### Patoune
-- Ervaringen van de community
-- Sluit je aan bij de community section
+- Ervaringen van de community -> ontwerpen en ontwikkelen
+- Sluit je aan bij de community section -> ontwerpen en ontwikkelen
 
 ### Wat hebben we gedaan vandaag?
 #### Alisha
