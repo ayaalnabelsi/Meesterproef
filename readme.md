@@ -31,8 +31,11 @@ Ik moest eigenlijk achter alles komen voor duidelijkheid vanuit de docenten zowe
 
 Tot nu toe ben ik eigenlijk helemaal niet tevreden over hoe het contact met onze coach verloopt, omdat ik via andere docenten moest achterhalen wat het plan was. Ik hoop daarom dat hier in de toekomst verbetering in komt.
 
-#### Wat gaan we morgen doen
+#### Aya A
+Ik heb vandaag actief bijgedragen aan de voorbereiding van de documenten voor dit project. Ik heb een groepsapp en een Notion bord opgezet, zodat de communicatie en samenwerking tijdens het project overzichtelijk verlopen en alles voor iedereen bijgehouden en terug te vinden is. Daarnaast heb ik belangrijke punten genoteerd en de taken voor de debriefing verdeeld, zodat duidelijk was wie welk onderdeel uitvoert.
+Verder heb ik de hoofdvraag, deelvragen en interviewvragen opgesteld. Ook heb ik Roger een email gestuurd met het verzoek om een afspraak in te plannen.
 
+#### Wat gaan we morgen doen
 #### Alisha
 Taken verdelen over welke pagina's wie gaat maken en wie wat precies gaat doen zodat we op vrijdag een prototype hebben waaar Roger iets mee kan. 
 ## Woensdag 20 mei - dag 3
@@ -41,6 +44,14 @@ Taken verdelen over welke pagina's wie gaat maken en wie wat precies gaat doen z
 #### Aya A
 - Footer
 - Buttons
+Ik heb in Figma een design gemaakt voor de styling van de buttons en de footer. Daarbij heb ik nagedacht over hoe de footer beter gestructureerd en gestyled kan worden, zodat deze overzichtelijker en gebruiksvriendelijker wordt. Dit ontwerp wil ik morgen testen met de opdrachtgever om feedback te verzamelen en eventuele verbeteringen door te voeren.
+Vervolgens ben ik aan de slag gegaan met het uitwerken van het design en het omzetten naar code, zodat het visueel ontwerp functioneel wordt op de website.
+
+Daarnaast heb ik via Teams afspraken gemaakt binnen de groep over de aanwezigheid in de ochtend. Dit omdat sommige groepsleden vaak later bij workshops aansluiten of in de ochtend niet aanwezig zijn, waardoor er weinig mogelijkheid is om goed te overleggen of samen te werken. 
+
+  <img src="readme-images/footer.png" alt="">
+  <img src="readme-images/buttons.png" alt="">
+  <img src="readme-images/uitgewerkte versie.png" alt="">
 
 #### Aya B
 - Nav
