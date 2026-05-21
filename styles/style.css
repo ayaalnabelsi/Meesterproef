@@ -3,7 +3,6 @@
     src: url(fonts/YoungSerif-Regular.ttf);
 }
 
-
 body {
     background-color: #FDF1D7;
     color: #AF2900;
@@ -17,6 +16,10 @@ section {
     padding-inline: 4em;
     padding-top: 1.5em;
     padding-bottom: 4em;
+}
+
+h1 {
+    font-family: "YoungSerif";
 }
 
 h2 {
@@ -161,6 +164,11 @@ a {
 	&:hover {
 		cursor: pointer;
 	}
+}
+
+.projects h2 {
+    padding: 0;
+    margin: 0 auto;
 }
 
 .project-card:nth-of-type(1)::before {
