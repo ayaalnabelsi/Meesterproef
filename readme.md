@@ -8,8 +8,8 @@ Daarnaast hebben we een Notion-bestand opgezet. Hierin verzamelen we onze notiti
 Ook hebben we een Word-document aangemaakt voor onze design rationale. Dit document gebruiken we om onze keuzes, onderbouwing en processtappen vast te leggen. We zijn begonnen met het invullen van dit document op basis van de taakverdeling die we in Notion hadden gemaakt.
 
 Aan het einde van de dag hebben we de debrief afgerond en alvast vragen opgesteld voor de opdrachtgever. Deze vragen willen we de volgende dag stellen, zodat we een duidelijker en completer beeld krijgen van de opdracht en de verwachtingen.
-## Dinsdag 19 mei - dag 2
 
+## Dinsdag 19 mei - dag 2
 ### Wat hebben we gedaan vandaag?
 #### Alisha
 Eigenlijk was mijn dag vandaag de miscommunicatie van Vasilis in orde maken.
@@ -41,6 +41,7 @@ Taken verdelen over welke pagina's wie gaat maken en wie wat precies gaat doen z
 ## Woensdag 20 mei - dag 3
 ### Taakverdeling voor vrijdag
 
+# Donderdag 
 #### Aya A
 - Footer
 - Buttons
@@ -56,7 +57,6 @@ Daarnaast heb ik via Teams afspraken gemaakt binnen de groep over de aanwezighei
 #### Aya B
 - Nav
 - Hero
-
 #### Alisha
 
 - Design maken van de v1
