@@ -145,6 +145,7 @@ a {
 	height: 200px;
 	box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.163);
     color: black;
+    background-color: #fff;
 	position: relative;
 	h3 {
 		z-index: 10;
