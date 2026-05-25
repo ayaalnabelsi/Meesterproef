@@ -2,6 +2,7 @@
 
 # Week 1
 ## Maandag 18 mei - dag 1
+#### Aya B
 Vandaag zijn we gestart met de Meesterproef. Nadat de groepjes waren ingedeeld, hebben we als team meteen een Teams-groep aangemaakt om makkelijker met elkaar te communiceren en afspraken te maken.
 Daarnaast hebben we een Notion-bestand opgezet. Hierin verzamelen we onze notities, afspraken en taakverdeling. Voor de eerste opdracht hebben we de taken verdeeld rondom het maken van de debrief voor de opdrachtgever.
 
@@ -67,6 +68,25 @@ Daarnaast heb ik via Teams afspraken gemaakt binnen de groep over de aanwezighei
 - Ervaringen van de community -> ontwerpen en ontwikkelen
 - Sluit je aan bij de community section -> ontwerpen en ontwikkelen
 
+### Taakverdeling voor vrijdag
+
+#### Aya A
+- Footer
+- Buttons
+
+#### Aya B
+- Nav
+- Hero
+
+#### Alisha
+
+- Design maken van de v1
+- Ebook section veranderen naar iets anders
+
+#### Patoune
+- Ervaringen van de community
+- Sluit je aan bij de community section
+
 ### Wat hebben we gedaan vandaag?
 #### Alisha
 De workshop van Leonie gedaan:
@@ -75,6 +95,15 @@ De workshop van Leonie gedaan:
 - Voor de tweede week een testpersoon vinden die niet bij Videlio werkt
 - 11:30 met Leonie op dinsdag (maandag is een vrije dag)
 - Leonie gaf aan dat ze geen teams heeft op haar telefoon waardoor we niets hadden gehoord van haar
+
+#### Aya B
+- Twee Git-workshops gevolgd: basiskennis en een verdiepende workshop.
+- Meer geleerd over werken met Git binnen een team.
+- Geoefend met GitHub Desktop.
+- Geleerd dat pull requests eerst reviewed en approved moeten worden voordat ze gemerged worden.
+- Verder gewerkt aan het design van het eerste prototype.
+- Taken verdeeld voor de eerste versie van het prototype.
+- Mijn taak gekozen/opgepakt: de hero section en de navigatiebalk.
 
 #### Patoune
 ##### Hoe ga je testen? (Leonie)
@@ -90,6 +119,7 @@ De workshop van Leonie gedaan:
 Iets maken wat we denken dat zij goed zouden vinden, alvast een klein prototype maken om te valideren om te kijken of dit goed is.
 
 
+
 ## Donderdag 21 mei - dag 4
 
 ### Wat hebben we gedaan vandaag?
@@ -101,6 +131,15 @@ Iets maken wat we denken dat zij goed zouden vinden, alvast een klein prototype 
 - Overal de planning strakker gemaakt en duidelijkere afspraken binnen het team besproken op initatief van Aya A
 - De V1 voor morgen klaar gezet voor Roger
 
+#### Aya B
+- Gewerkt aan mijn taak voor het eerste prototype.
+- De hero section en navigatiebalk uitgewerkt in code.
+- Samen met het team afspraken gemaakt over de workflow.
+- Besproken hoe we omgaan met branches, pull requests en reviews.
+- Meegeholpen om de planning strakker en duidelijker te maken.
+- De eerste versie van het prototype voorbereid voor Roger.
+- Weekly Nerd van Hans gevolgd over privacy.
+
 
 #### Wat gaan we morgen doen?
 
@@ -109,7 +148,17 @@ Iets maken wat we denken dat zij goed zouden vinden, alvast een klein prototype 
 - Kennismaken met het team/bedrijf
 - Testen
 
+
+
+
 ## Vrijdag 22 mei - dag 5
+
+#### Aya B
+- Afspraak gehad met Roger om 12:00.
+- Kennisgemaakt met Roger en Peter.
+- Meer context gekregen over Videlio en de doelgroep.
+- De eerste versie van het prototype besproken.
+- Feedback verzameld op onze eerste richting.
 
 # Week 2
 ## Dinsdag 26 mei - dag 6
