@@ -2,7 +2,7 @@
 
 # Week 1
 ## Maandag 18 mei - dag 1
-#### Aya
+#### Aya B
 Vandaag zijn we gestart met de Meesterproef. Nadat de groepjes waren ingedeeld, hebben we als team meteen een Teams-groep aangemaakt om makkelijker met elkaar te communiceren en afspraken te maken.
 Daarnaast hebben we een Notion-bestand opgezet. Hierin verzamelen we onze notities, afspraken en taakverdeling. Voor de eerste opdracht hebben we de taken verdeeld rondom het maken van de debrief voor de opdrachtgever.
 
@@ -65,7 +65,7 @@ De workshop van Leonie gedaan:
 - 11:30 met Leonie op dinsdag (maandag is een vrije dag)
 - Leonie gaf aan dat ze geen teams heeft op haar telefoon waardoor we niets hadden gehoord van haar
 
-#### Aya
+#### Aya B
 - Twee Git-workshops gevolgd: basiskennis en een verdiepende workshop.
 - Meer geleerd over werken met Git binnen een team.
 - Geoefend met GitHub Desktop.
@@ -90,7 +90,7 @@ Iets maken wat we denken dat zij goed zouden vinden, alvast een klein prototype 
 
 ## Donderdag 21 mei - dag 4
 
-#### Aya
+#### Aya B
 - Gewerkt aan mijn taak voor het eerste prototype.
 - De hero section en navigatiebalk uitgewerkt in code.
 - Samen met het team afspraken gemaakt over de workflow.
@@ -101,7 +101,7 @@ Iets maken wat we denken dat zij goed zouden vinden, alvast een klein prototype 
 
 ## Vrijdag 22 mei - dag 5
 
-#### Aya
+#### Aya B
 - Afspraak gehad met Roger om 12:00.
 - Kennisgemaakt met Roger en Peter.
 - Meer context gekregen over Videlio en de doelgroep.
