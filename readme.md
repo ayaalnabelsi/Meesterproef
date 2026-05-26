@@ -237,7 +237,6 @@ Bij veel websites moeten screenreadergebruikers eerst door de hele pagina heen v
 Ze willen een aantrekkelijke website die niet alleen toegankelijk is, maar ook direct gevoel oproept. Niet alleen uitleggen wat Vedilio aanbiedt, maar vooral uitstralen:
 
 > “Wauw, daar wil ik bij horen.”
-> 
 
 Workshops gaan in de toekomst zeker terugkomen. Deze stonden eerder online maar zijn tijdelijk weggehaald. Ze hebben nu een locatie voor workshops, maar zoeken nog naar een beter toegankelijke plek in Eindhoven. Ze gaven zelf aan dat hun ideeën soms verder zijn ontwikkeld dan de praktische realiteit.
 
@@ -248,7 +247,6 @@ Peter benoemde ook dat hij het belangrijk vindt dat bijvoorbeeld zijn vriendin d
 Voor mensen met een visuele beperking moet de website strak en overzichtelijk zijn, met grotere letters maar niet overdreven groot. Roger houdt van een moderne en strakke stijl, maar het mag ook speels zijn.
 
 > “Ik bepaal zelf hoe mijn leven eruitziet.”
-> 
 
 Ze ervaren dat er in de wereld van slechtziendheid vaak voor mensen wordt gedacht en gezorgd. Vedilio wil juist autonomie uitstralen.
 
@@ -277,7 +275,6 @@ Dode links of onduidelijke navigatie moeten absoluut voorkomen worden.
 Vanaf het eerste moment moet de website uitstralen
 
 > “Hier gebeurt iets bijzonders.”
-> 
 
 Niet alleen informeren, maar mensen echt aantrekken.
 
@@ -396,9 +393,24 @@ Uitstraling: Dit gaat over mij, niet alleen toegankelijkheid sausje maar dat er 
 - Voor de workshop pagina: Er komen nog workshops aan. Dat is een plek in Eindhoven.
 - Belangrijk - als je voor het eerst op de site komt, wow hier gebeurt wat, hier wil ik bij aansluiten. Dit beiden wij aan, doe hier aan mee.
 
+# V1.0 - Website eind week 1
+<img src="readme-images/v1.gif">
+Tijdens de test
+<img src="readme-images/test1.jpeg">
+
 # Week 2
 ## Dinsdag 26 mei - dag 6
 - Meeting met projectcoach om 11:30
+- Scrum -> weten waar iedereen mee bezig is
+- Doel voor deze week?
+- Berend vragen of hij ons prototype wil testen zodat we een extra test hebben buiten het bedrijf
+- Online of IRL, is aan jullie. IRL heeft wel voorkeur want dan kan je zien hoe ze dingen doen
+- roadmap -> mijlpalen stellen tijdens het project, trello gebruiken?
+
+- Din: alle html pagina's opzetten
+- Woe: css/styling van de pagina's
+- Do: js en vragen bedenken voor het prototype
+- Vr: prototype testen
 
 ## Woensdag 27 mei - dag 7
 - workshops
@@ -413,6 +425,7 @@ Uitstraling: Dit gaat over mij, niet alleen toegankelijkheid sausje maar dat er 
 # Week 3
 ## Maandag 1 juni - dag 10
 - Meeting met projectcoach om ???
+
 ## Dinsdag 2 juni - dag 11
 
 ## Woensdag 3 juni - dag 12
@@ -421,6 +434,7 @@ Uitstraling: Dit gaat over mij, niet alleen toegankelijkheid sausje maar dat er 
 ## Donderdag 4 juni - dag 13
 ### Wat gaan we morgen doen?
 - 12:00 bij de opdrachtgever
+
 ## Vrijdag 5 juni - dag 14
 
 # Week 4
