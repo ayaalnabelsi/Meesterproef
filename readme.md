@@ -42,8 +42,6 @@ Taken verdelen over welke pagina's wie gaat maken en wie wat precies gaat doen z
 
 ## Woensdag 20 mei - dag 3
 ### Taakverdeling voor vrijdag
-
-# Donderdag 
 #### Aya A
 - Footer → ontwerpen en ontwikkelen
 - Buttons → ontwerpen en ontwikkelen
@@ -67,25 +65,6 @@ Daarnaast heb ik via Teams afspraken gemaakt binnen de groep over de aanwezighei
 #### Patoune
 - Ervaringen van de community -> ontwerpen en ontwikkelen
 - Sluit je aan bij de community section -> ontwerpen en ontwikkelen
-
-### Taakverdeling voor vrijdag
-
-#### Aya A
-- Footer
-- Buttons
-
-#### Aya B
-- Nav
-- Hero
-
-#### Alisha
-
-- Design maken van de v1
-- Ebook section veranderen naar iets anders
-
-#### Patoune
-- Ervaringen van de community
-- Sluit je aan bij de community section
 
 ### Wat hebben we gedaan vandaag?
 #### Alisha
@@ -118,8 +97,6 @@ De workshop van Leonie gedaan:
 ##### Doen voor vrijdag
 Iets maken wat we denken dat zij goed zouden vinden, alvast een klein prototype maken om te valideren om te kijken of dit goed is.
 
-
-
 ## Donderdag 21 mei - dag 4
 
 ### Wat hebben we gedaan vandaag?
@@ -147,7 +124,6 @@ Iets maken wat we denken dat zij goed zouden vinden, alvast een klein prototype 
 - 12:00 bij Roger
 - Kennismaken met het team/bedrijf
 - Testen
-
 
 # Vrijdag kennismaken & eerste test
 ## Vrijdag 22 mei - dag 5
