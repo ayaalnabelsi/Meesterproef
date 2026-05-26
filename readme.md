@@ -412,6 +412,19 @@ Tijdens de test
 - Do: js en vragen bedenken voor het prototype
 - Vr: prototype testen
 
+Sitemap v2:
+```
+videlio/
+			├── blog.html
+			│   ├── nieuws.html
+			│   ├── radio.html
+			│   ├── ebook.html
+			│   └── podcast.html
+			├── projecten.html
+			├── over_ons.html
+			└── index.html
+```
+
 ## Woensdag 27 mei - dag 7
 - workshops
 
