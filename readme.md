@@ -124,6 +124,7 @@ Iets maken wat we denken dat zij goed zouden vinden, alvast een klein prototype 
 - 12:00 bij Roger
 - Kennismaken met het team/bedrijf
 - Testen
+- Eindelijk een goed beeld krijgen van wat we moeten doen voor de opdracht
 
 # Vrijdag kennismaken & eerste test
 ## Vrijdag 22 mei - dag 5
@@ -202,12 +203,14 @@ Ze gaan de komende dagen nadenken over hoe de aanmeldprocedure intern geregeld k
 ## Aanvullende inzichten uit het gesprek
 Tijdens het gesprek kwam ook een belangrijke vraag naar voren
 > “Is blind zijn erg omdat de maatschappij dat zo ziet, of omdat het echt zo erg is?”
+
 Daarmee wilden ze duidelijk maken dat blindheid of slechtziendheid vaak sociaal zwaarder wordt gemaakt dan nodig is. Mensen met een visuele beperking zijn volgens hen niet zielig, maar gewoon mensen met ambities, dromen en een eigen identiteit.
 
 Ze gaven aan dat veel bestaande websites technisch toegankelijk proberen te zijn, maar uiteindelijk alsnog gebouwd zijn vanuit een ziende gebruiker. Er wordt vaak een toegankelijkheidslaag eroverheen geplakt, terwijl Vedilio juist een platform wil dat vanaf de basis ontworpen is voor VIP’s en empowerment centraal zet.
 Een belangrijk probleem bij screenreaders is dat gebruikers vaak eerst door lange headers, menu’s en teksten heen moeten voordat duidelijk wordt waar de website eigenlijk over gaat. Pas nadat alle details zijn voorgelezen ontstaat overzicht. Daarom ontstond het idee voor een soort schaduwwebsite een compacte versie die speciaal gericht is op screenreaders en snel context geeft over Vedilio.
 De website moet direct het gevoel oproepen
 > “Wow, hier wil ik bij horen.”
+
 Dat gevoel is belangrijker dan meteen uitleggen welke diensten of activiteiten worden aangeboden.
 Er werd ook gesproken over verschillende modi of weergaven
 - een standaardversie voor de gemiddelde bezoeker
@@ -216,6 +219,7 @@ qua stijl vinden ze een strakke website belangrijk, grote tekst mag aanwezig zij
 Ze stonden opvallend open voor experimenten met geluid op de website. Het idee van een digitale kamer of ruimte kwam meerdere keren terug. Geluid zou gebruikt kunnen worden om sfeer neer te zetten, bijvoorbeeld met subtiele soundscapes. Tegelijkertijd benadrukten ze dat geluid snel storend kan worden, zeker voor screenreadergebruikers die audio vaak versneld afspelen rust blijft daarom belangrijk.
 Hun houding hierin was:
 > “Verras ons maar.”
+
 Maar wel met de voorwaarde dat alles functioneel en niet overprikkelend blijft.
 qua visuele voorkeuren noemden ze rood als een kleur die hen aanspreekt.
 Ook werd benoemd dat knoppen en interacties goed getest moeten worden voor screenreaders en eventuele switches of toegankelijkheidsbediening.
@@ -271,6 +275,10 @@ Uitstraling: Dit gaat over mij, niet alleen toegankelijkheid sausje maar dat er 
 ## Dinsdag 26 mei - dag 6
 ## Woensdag 27 mei - dag 7
 ## Donderdag 28 mei - dag 8
+
+### Wat gaan we morgen doen?
+- 14:00 bij de opdrachtgever
+
 ## Vrijdag 29 mei - dag 9
 
 # Week 3
@@ -278,6 +286,8 @@ Uitstraling: Dit gaat over mij, niet alleen toegankelijkheid sausje maar dat er 
 ## Dinsdag 2 juni - dag 11
 ## Woensdag 3 juni - dag 12
 ## Donderdag 4 juni - dag 13
+### Wat gaan we morgen doen?
+- 12:00 bij de opdrachtgever
 ## Vrijdag 5 juni - dag 14
 
 # Week 4
@@ -285,11 +295,17 @@ Uitstraling: Dit gaat over mij, niet alleen toegankelijkheid sausje maar dat er 
 ## Dinsdag 9 juni - dag 16
 ## Woensdag 10 juni - dag 17
 ## Donderdag 11 juni - dag 18
+### Wat gaan we morgen doen?
+- 14:00 bij de opdrachtgever
 ## Vrijdag 12 juni - dag 19
 
 # Week 5 eind
 ## Maandag 15 juni - dag 20
 ## Dinsdag 16 juni - dag 21
+### Wat gaan we morgen doen?
+- 12:00 bij de opdrachtgever
+- pres bij de opdrachtgever
+
 ## Woensdag 17 juni - dag 22
 ## Donderdag 18 juni - dag 23
 ## Vrijdag 19 juni - dag 24
