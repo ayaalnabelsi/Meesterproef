@@ -117,6 +117,78 @@ Iets maken wat we denken dat zij goed zouden vinden, alvast een klein prototype 
 - De eerste versie van het prototype voorbereid voor Roger.
 - Weekly Nerd van Hans gevolgd over privacy.
 
+### Workshop/definition of ready of requirements:
+code:
+- goed commiten die wordt voor iedereen duidelijk zijn(taal bepalen), met goede uitleg over wat hier gedaan wordt.
+-Af stemmen over :
+     -de classs namen ook qua taal(btn of button)
+     -de vorm van arrow function oude vorm of met = >
+-gode nesting
+
+gebruikers:
+-de gebruiker moet eenvoudig kunnen schakelen tussen fuvi en lovi modus
+-de gebruiker moet snel belangrijke informatie kunnen vinden
+
+accessibility:
+-de website moet voldoen aan WCAG 2.2 AA
+-de website moet volledig bruikbaar zijn met toetsenbordnavigatie.
+
+style:
+-De stijl moet modern, menselijk en energiek aanvoelen
+
+-wil een goed plan gaan maken van de ochtend over wat wij gaan maken.
+
+-hoe maken jullie de product userfriendly?
+
+### Doelen voor de gebruikers, wanneer is je project een succes? - Sanne
+Lijstje Alisha
+Project in het kort: website redesignen met een accessiblity sausje die slechtziende empowered.
+
+- Met je team een lijste maken over de criteria/kwaliteiten voor onder andere
+- Code kwaliteit
+- Content kwaliteit
+- Interactie kwaliteit
+
+Lijstje maken om je werk te reviewen - Alisha:
+
+- Code conventies → kebab-case voor HTML, CSS nesten camelCase voor id’s en js vars
+- Toegankelijkheid → contrast
+- Gebruik betekenisvolle namen voor componenten / functions / variables / css classes
+- maar deel de code op in logische componenten
+- **JavaScript conventies: dubbele qoutes voor strings, gebruik semi colons voor elke line van code.**
+- Fall back voor high-density screens → meer detail
+
+Lijstje - patoune
+
+Code: 
+Semantische html
+structuur en logische volgorde
+logische naamgeving
+
+Toegankelijkheid:
+Goed contrast tekst/buttons
+alternatieve tekst bij img
+screenreader werkt overal
+duidelijke feedback bij knoppen
+responsive design
+inzoomen
+
+Check wcag: axe accessibility, lighthouse
+contrast check: color contrast analyzer
+
+320
+
+Welke schermen gebruiken mensen met een visuele beperkingen
+
+Content kwaliteit: 
+alt-teksten bij afbeeldingen
+grootte van afbeeldingen
+logische volgorde
+navigatie logisch en netjes opgebouwd
+consistente stijl overal
+
+svg, webp
+picture element
 
 #### Wat gaan we morgen doen?
 
@@ -135,8 +207,10 @@ Iets maken wat we denken dat zij goed zouden vinden, alvast een klein prototype 
 - De eerste versie van het prototype besproken.
 - Feedback verzameld op onze eerste richting.
 
-### Meeting notes Aya A
-## Algemeene intro
+**Meeting notes Aya A**
+
+## Algemeen intro
+
 Slechtziende mensen hebben vaak veel ervaring met websites en toegankelijkheid. Ze willen daarom niet zomaar een goede website, maar een voorbeeld neerzetten van hoe het eigenlijk zou moeten. De doelgroep zijn natuurlijk mensen met een visuele beperking, maar ook organisaties, ondernemers en mensen zonder beperking moeten begrijpen waar Vedilio voor staat.
 
 Roger vertelde dat hij in zijn rechteroog nog ongeveer 1% zicht heeft en in zijn linkeroog ongeveer 40%. Zijn centrale zicht werkt bijna niet meer. Peter ervaart juist het tegenovergestelde zijn centrale zicht is goed, maar het zicht daaromheen is beperkt. Dat verschil liet meteen zien hoe verschillend slechtziendheid kan zijn per persoon.
@@ -145,8 +219,10 @@ Tijdens het gesprek viel op dat sommige elementen, zoals pop-ups, mogelijk niet 
 
 Ze vertelden ook dat ze dromen en ambities hebben die ze op een leuke en effectieve manier willen omzetten in de praktijk. Slechtziendheid betekent volgens hen niet dat het leven stopt. Roger gaf als voorbeeld dat hij hardloopt met een begeleider via een lintverbinding. “Je ontdekt vaak dat er veel meer mogelijk is dan je eerst denkt, maar je moet je wel anders leren voorbereiden. Dat proces kan confronterend en soms pijnlijk zijn”.
 
-Ze benoemden ook hoe intensief revalidatietrajecten kunnen zijn, zeker wanneer mensen op jongere leeftijd slechtziend worden. Dat heeft invloed op relaties, werk en het dagelijks leven.
+Ze benoemden ook hoe intensief revalidatietrajecten kunnen zijn, zeker wanneer mensen op jongere leeftijd slechtziend worden. Dat heeft invloed op relaties, werk en het dagelijks leven. 
+
 ## Wat zij willen
+
 Ze hebben zelf nieuwe ideeën bedacht voor hoe een website voor VIP’s eruit zou moeten zien. Veel bestaande websites voelen volgens hen als gewone websites waar later een toegankelijkheidslaag overheen is gelegd. Vedilio wil juist een website die vanaf de basis ontworpen voelt voor mensen met een visuele beperking.
 
 Belangrijke punten zijn:
@@ -157,42 +233,65 @@ Belangrijke punten zijn:
 - minder vermoeidheid tijdens het navigeren.
 
 Bij veel websites moeten screenreadergebruikers eerst door de hele pagina heen voordat duidelijk wordt wat belangrijk is. Dat kost energie.
+
 Ze willen een aantrekkelijke website die niet alleen toegankelijk is, maar ook direct gevoel oproept. Niet alleen uitleggen wat Vedilio aanbiedt, maar vooral uitstralen:
+
 > “Wauw, daar wil ik bij horen.”
+> 
+
 Workshops gaan in de toekomst zeker terugkomen. Deze stonden eerder online maar zijn tijdelijk weggehaald. Ze hebben nu een locatie voor workshops, maar zoeken nog naar een beter toegankelijke plek in Eindhoven. Ze gaven zelf aan dat hun ideeën soms verder zijn ontwikkeld dan de praktische realiteit.
+
 Peter benoemde ook dat hij het belangrijk vindt dat bijvoorbeeld zijn vriendin de website ook gewoon prettig kan gebruiken. Daarom ontstond het idee om mogelijk twee versies van de website te maken.
 
 ## Huisstijl en uitstraling
+
 Voor mensen met een visuele beperking moet de website strak en overzichtelijk zijn, met grotere letters maar niet overdreven groot. Roger houdt van een moderne en strakke stijl, maar het mag ook speels zijn.
 
 > “Ik bepaal zelf hoe mijn leven eruitziet.”
+> 
 
 Ze ervaren dat er in de wereld van slechtziendheid vaak voor mensen wordt gedacht en gezorgd. Vedilio wil juist autonomie uitstralen.
+
 Roger gaf als voorbeeld  de bijeenkomst bij de gemeente Eindhoven overdag gesprekken over toegankelijkheid en daarna samen informeel borrelen. Daarmee willen ze laten zien dat mensen met een beperking niet automatisch “geholpen” hoeven te worden, maar gewoon onderdeel zijn van de samenleving.
+
 Ze willen absoluut niet uitstralen dat mensen met een visuele beperking zielig zijn of gezien moeten worden als patiënt of dossier. Dat gevoel willen ze juist vermijden in de tone of voice van Vedilio.
 
 ## Toegankelijkheid & functionaliteiten
 
 Beide versies van de website moeten uiteindelijk dezelfde inhoud bevatten, maar de screenreaderversie mag werken met kortere zinnen en minder visuele afleiding.
+
 Er werd gesproken over een digitale “kamer” of online ruimte waarin geluid mogelijk een rol kan spelen, bijvoorbeeld subtiele achtergrondgeluiden zoals de zee. Tegelijkertijd moet dat nooit storend worden. Audio of geluidseffecten moeten dus altijd optioneel zijn.
+
 Misschien kan er gewerkt worden met shortcuts of toegankelijkheidsopties die gebruikers zelf aan of uit kunnen zetten.
+
 Ze staan open voor innovatieve ideeën zolang deze niet storend of vermoeiend zijn.
 
 ## Community & content
-Videlio wil dat mensen uit de VIP community zelf actief bijdragen aan het platform. Bijvoorbeeld door podcasts te maken over onderwerpen rondom slechtziendheid.
+
+Vedilio wil dat mensen uit de VIP community zelf actief bijdragen aan het platform. Bijvoorbeeld door podcasts te maken over onderwerpen rondom slechtziendheid.
+
 “Join the community” moet verwijzen naar een laagdrempelig contactformulier of een manier om eenvoudig contact op te nemen. Mogelijk ook via inspreken/audio-input, zodat het toegankelijker wordt voor mensen met een leesbeperking.
+
 Dode links of onduidelijke navigatie moeten absoluut voorkomen worden.
+
 Vanaf het eerste moment moet de website uitstralen
+
 > “Hier gebeurt iets bijzonders.”
+> 
+
 Niet alleen informeren, maar mensen echt aantrekken.
 
 ## Verwachtingen & haalbaarheid
+
 De boodschap en uitstraling van de website zijn het belangrijkst. Er moeten duidelijke routes komen voor verschillende bezoekers, bijvoorbeeld:
+
 - “Ik ben net slechtziend geworden”
 - “Wat heeft Vedilio mij te bieden?”
 - “Ik zoek een community”
 - “Ik wil mezelf ontwikkelen”
+
 Belangrijke pijlers zijn:
+
 - media & podcasts
 - persoonlijke ontwikkeling
 - community
@@ -201,46 +300,70 @@ Belangrijke pijlers zijn:
 Ze gaan de komende dagen nadenken over hoe de aanmeldprocedure intern geregeld kan worden.
 
 ## Aanvullende inzichten uit het gesprek
+
 Tijdens het gesprek kwam ook een belangrijke vraag naar voren
+
 > “Is blind zijn erg omdat de maatschappij dat zo ziet, of omdat het echt zo erg is?”
+> 
 
 Daarmee wilden ze duidelijk maken dat blindheid of slechtziendheid vaak sociaal zwaarder wordt gemaakt dan nodig is. Mensen met een visuele beperking zijn volgens hen niet zielig, maar gewoon mensen met ambities, dromen en een eigen identiteit.
 
 Ze gaven aan dat veel bestaande websites technisch toegankelijk proberen te zijn, maar uiteindelijk alsnog gebouwd zijn vanuit een ziende gebruiker. Er wordt vaak een toegankelijkheidslaag eroverheen geplakt, terwijl Vedilio juist een platform wil dat vanaf de basis ontworpen is voor VIP’s en empowerment centraal zet.
+
 Een belangrijk probleem bij screenreaders is dat gebruikers vaak eerst door lange headers, menu’s en teksten heen moeten voordat duidelijk wordt waar de website eigenlijk over gaat. Pas nadat alle details zijn voorgelezen ontstaat overzicht. Daarom ontstond het idee voor een soort schaduwwebsite een compacte versie die speciaal gericht is op screenreaders en snel context geeft over Vedilio.
+
 De website moet direct het gevoel oproepen
+
 > “Wow, hier wil ik bij horen.”
+> 
 
 Dat gevoel is belangrijker dan meteen uitleggen welke diensten of activiteiten worden aangeboden.
+
 Er werd ook gesproken over verschillende modi of weergaven
+
 - een standaardversie voor de gemiddelde bezoeker
 - een VIP versie met grotere tekst, rustiger ontwerp en optimalisatie voor screenreaders.
+
 qua stijl vinden ze een strakke website belangrijk, grote tekst mag aanwezig zijn, maar het moet niet overdreven  aanvoelen.
+
 Ze stonden opvallend open voor experimenten met geluid op de website. Het idee van een digitale kamer of ruimte kwam meerdere keren terug. Geluid zou gebruikt kunnen worden om sfeer neer te zetten, bijvoorbeeld met subtiele soundscapes. Tegelijkertijd benadrukten ze dat geluid snel storend kan worden, zeker voor screenreadergebruikers die audio vaak versneld afspelen rust blijft daarom belangrijk.
-Hun houding hierin was:
+
+Hun houding hierin was
+
 > “Verras ons maar.”
+> 
 
 Maar wel met de voorwaarde dat alles functioneel en niet overprikkelend blijft.
+
 qua visuele voorkeuren noemden ze rood als een kleur die hen aanspreekt.
+
 Ook werd benoemd dat knoppen en interacties goed getest moeten worden voor screenreaders en eventuele switches of toegankelijkheidsbediening.
-- de huidige website bevat te veel dode links 
-- de aanmeldprocedure is momenteel het grootste praktische probleem 
+
+- de huidige website bevat te veel dode links
+- de aanmeldprocedure is momenteel het grootste praktische probleem
 - de compacte/screenreaderversie vooral behoefte heeft aan korte teksten, duidelijke samenvattingen en weinig afleiding
-- workshops komen binnenkort weer terug op de website
+- workshops komen binnenkort weer terug op de websit
 
-### Meeting notes Alisha
-Over Roger: 
+## Vrijdag kennismaken & eerste test - 22 mei 2026
+
+**meeting notes Alisha**
+
+Over Roger
+
 - beeldend kunstenaar
-- ziet 1% in zijn linker oog en 40% in zijn rechter oog 
+- ziet 1% in zijn linker oog en 40% in zijn rechter oog
 
-Over Peter:
+Over Peter
+
 - buisje wordt steeds slechter
 - Zijn brein maakt het plaatje compleet
 
-Is blind zijn erg omdat het sociaal zo wordt gezien of omdat dat ook echt zo is?
+is blind zijn erg omdat het sociaal zo wordt gezien of omdat dat ook echt zo is?
+
 Eigenlijk is blind zijn niet zielig, ze zijn ook gewoon mensen met dromen. 
 
-Websites zijn er maar daar zit een toegangkelijkheids sausje overheen en zijn eigenlijk niet gebouwd voor blinden.
+Websites zijn er maar daar zit een toegangkelijkheids sausje overheen en zijn eigenlijk niet gebouwd voor blinden. 
+
 Geen sausje gewoon gebouwd voor VIPS om ze te empoweren
 
 - screen reader gaat eerst door de header
@@ -258,11 +381,13 @@ Geen sausje gewoon gebouwd voor VIPS om ze te empoweren
 - Geluid als een sfeer beeld → als ik denk aan geluid dan denk ik aan een screen reader die 2x zo snel uitspreekt.
 - Houd het zo rustig mogelijk VS  met een soort soundscapes kan je ook een sfeer neer zetten die heel goed bij videlio werkt
 - voorzichtig zijn want je wil het niet storend maken waar het kan ook niet toevoegen.
+
 Rood vinden ze wel mooi
 Knop die in de screen reader terug komt
 Testen met knoppen voor de switch
 
-### Meeting notes Patoune
+**Meeting notes Patoune**
+
 - Wat zij graag willen: een gewone aantrekkelijke website.
 Uitstraling: Dit gaat over mij, niet alleen toegankelijkheid sausje maar dat er een schaduw-website naast staat. Videlio staat hier voor, dus niet dit bieden we aan, meer wow dit is leuk, hier wil ik bij horen
 - Redesign, focus op: Fysieke Toegankelijkheid, viplab
@@ -273,7 +398,11 @@ Uitstraling: Dit gaat over mij, niet alleen toegankelijkheid sausje maar dat er 
 
 # Week 2
 ## Dinsdag 26 mei - dag 6
+- Meeting met projectcoach om 11:30
+
 ## Woensdag 27 mei - dag 7
+- workshops
+
 ## Donderdag 28 mei - dag 8
 
 ### Wat gaan we morgen doen?
@@ -283,8 +412,12 @@ Uitstraling: Dit gaat over mij, niet alleen toegankelijkheid sausje maar dat er 
 
 # Week 3
 ## Maandag 1 juni - dag 10
+- Meeting met projectcoach om ???
 ## Dinsdag 2 juni - dag 11
+
 ## Woensdag 3 juni - dag 12
+- workshops
+
 ## Donderdag 4 juni - dag 13
 ### Wat gaan we morgen doen?
 - 12:00 bij de opdrachtgever
@@ -292,25 +425,37 @@ Uitstraling: Dit gaat over mij, niet alleen toegankelijkheid sausje maar dat er 
 
 # Week 4
 ## Maandag 8 juni - dag 15
+- Meeting met projectcoach om ???
+
 ## Dinsdag 9 juni - dag 16
+
 ## Woensdag 10 juni - dag 17
+- workshops
+
 ## Donderdag 11 juni - dag 18
 ### Wat gaan we morgen doen?
 - 14:00 bij de opdrachtgever
+
 ## Vrijdag 12 juni - dag 19
 
 # Week 5 eind
 ## Maandag 15 juni - dag 20
+
 ## Dinsdag 16 juni - dag 21
+- Meeting met projectcoach om ???
+
 ### Wat gaan we morgen doen?
 - 12:00 bij de opdrachtgever
 - pres bij de opdrachtgever
 
 ## Woensdag 17 juni - dag 22
+- workshops
+
 ## Donderdag 18 juni - dag 23
+
 ## Vrijdag 19 juni - dag 24
 ### Laatste dag
 
-## Reflectie
+## Reflectie 
 
 # Bronnen
