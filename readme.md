@@ -66,6 +66,8 @@ Daarnaast heb ik via Teams afspraken gemaakt binnen de groep over de aanwezighei
 - Ervaringen van de community -> ontwerpen en ontwikkelen
 - Sluit je aan bij de community section -> ontwerpen en ontwikkelen
 
+Ik heb vandaag geholpen met voorbereiden van ons Redesign, en begonnen aan de debriefing van de opdracht/
+
 ### Wat hebben we gedaan vandaag?
 #### Alisha
 De workshop van Leonie gedaan:
