@@ -428,7 +428,299 @@ videlio/
 ```
 
 ## Woensdag 27 mei - dag 7
-- workshops
+## **JavaScript voor medium+ Workshop - Jad**
+
+Alisha
+
+Een paar kleine oefeningen in JS om je meer te laten oefenen met de functies en de syntax
+
+Opdracht 1
+
+```jsx
+function capitalizeWord(word) {
+  const trimmed = word.trim();
+  return (trimmed[0].toUpperCase() + trimmed.substring(1).toLowerCase());
+}
+
+// Sample usage
+console.log(capitalizeWord("  sam ")); // "Sam"
+console.log(capitalizeWord(" alEX")); // "Alex"
+
+trim() js function = haalt spaties/whitespace weg
+[0] voor de eerste letter
+toUpperCase() = capitals
+word.trim in een const var
+```
+
+Opdracht 2
+
+```jsx
+function upperEveryItem(items) {
+  return items.map(function (item) {
+    return item.toUpperCase();
+  })
+}
+
+console.log(upperEveryItem(["sam", "alex", "maria"])); // ["SAM", "ALEX", "MARIA"]
+
+map() = alle items van de lijst
+
+Arrow function
+function upperEveryItem(items) {
+  return items.map((item) => {
+    return item.toUpperCase();
+  })
+}
+
+Korte versie met arrow function:
+function upperEveryItem(items) {
+  return items.map((item) => item.toUpperCase())
+}
+```
+
+Opdracht 3
+
+```jsx
+function firstCharTransform(items) {
+  return items.map((item) => {
+    return item.toUpperCase()[0];
+  })
+}
+
+```
+
+forEach return’ed niets een map wel. Dus als je een array hebt kan je map gebruiken om er door te gaan.
+
+Opdracht 4
+
+```jsx
+function sumNumbers(items) {
+  let sum = 0;
+  items.forEach(item => sum += item); 
+    return (sum);
+}
+
+console.log(sumNumbers([1, 10, 4, 5, 3])); // 23
+console.log(sumNumbers([10, 11, 12])); // 33
+```
+
+Sum wordt elke itiratie bijgehouden + de waarde van item geeft de totale sum
+
+Dit doet hetzelfde zonder een sum bij te houden:
+
+```jsx
+function sumNumbers(items) {
+  return (items.reduce(function(total, current) {
+    return (total + current);
+  }, 0));
+}
+```
+
+Opdracht 5 Array destructuring
+
+```jsx
+function sayHello(details) {
+  const [firstName, lastName] = details;
+
+  return `Hello, ${firstName} ${lastName}!`;
+}
+
+console.log(sayHello(["John", "Smith"])); // Hello, John Smith!
+console.log(sayHello(["Jane", "Doe"])); // Hello, Jane Doe!
+
+```
+
+Opdracht 6 Array destructuring, als je geen last name hebt en die NIET op undefined wil hebben
+
+```jsx
+function sayHello(details) {
+  const [firstName, lastName = "N/A"] = details;
+
+  return `Hello, ${firstName} ${lastName}!`;
+}
+
+```
+
+Opdracht 7 Objects
+
+```jsx
+const tweets = [
+  {
+    id: 1080777336298049537,
+    message: "Just shipped a new feature! 🚀",
+    author: {
+      username: "jad",
+      name: "Jad Joubran",
+    },
+    replies: [
+      {
+        id: 1080888336298049001,
+        message: "Congrats! What does it do?",
+        author: {
+          username: "sam",
+          name: "Sam Green",
+        },
+      },
+      {
+        id: 1080888336298049002,
+        message: "Amazing work! 🎉",
+        author: {
+          username: "alex",
+          name: "Alex Brown",
+        },
+      },
+    ],
+  },
+  {
+    id: 1080777336298195435,
+    message: "What's your favorite JS framework?",
+    author: {
+      username: "maria",
+      name: "Maria Chen",
+    },
+    replies: [
+      {
+        id: 1080888336298195001,
+        message: "React all the way!",
+        author: {
+          username: "chris",
+          name: "Chris Lee",
+        },
+      },
+    ],
+  },
+];
+
+function getFirstReplyAuthor(tweet) {
+  return (tweet.replies[0].author.username);
+}
+
+console.log(getFirstReplyAuthor(tweets[0])); // "sam"
+console.log(getFirstReplyAuthor(tweets[1])); // "chris"
+```
+
+Data uit objects halen
+
+Opdracht 8
+
+```jsx
+function getField(profile, field) {
+  return (profile[field]);
+}
+
+// Sample usage
+const user = {
+  name: "Sam",
+  age: 25,
+  city: "Paris",
+};
+console.log(getField(user, "name")); // "Sam"
+console.log(getField(user, "age")); // 25
+console.log(getField(user, "city")); // "Paris"
+```
+
+Opdracht 9
+
+```jsx
+function sayHello(details) {
+
+  const {firstName, lastName} = details;
+  return `Hello, ${firstName} ${lastName}!`;
+}
+
+console.log(sayHello({ firstName: "John", lastName: "Smith" })); // "Hello, John Smith!"
+console.log(sayHello({ firstName: "Jane", lastName: "Doe" })); // "Hello, Jane Doe!"
+
+```
+
+Opdracht 10, Optional chaining
+
+```jsx
+function getFirstReplyAuthor(tweet) {
+  return (tweet.replies[0]?.author.username)
+}
+```
+
+Als iets niet defined is dan geeft “?” undefined of NULL terug ipv van een error.
+
+Opdracht 11, Nullish-coalescing
+
+```jsx
+function getDisplayName(user) {
+  return user.displayName ?? user.username ?? "Guest";
+}
+
+// Of
+
+function getDisplayName(user) {
+  return user.displayName || user.username || "Guest";
+}
+```
+
+als user.displayName Null of undefined probeer dan de username als er geen username is zet de naam dan op “Guest”
+
+Opdracht 12, Optional chaining nullish
+
+```jsx
+
+function getFirstReplyAuthor(tweet) {
+  return (tweet.replies[0]?.author.username ?? "No replies")
+}
+
+// Sample usage
+console.log(getFirstReplyAuthor(tweets[0])); // "sam"
+console.log(getFirstReplyAuthor(tweets[1])); // "No replies yet"
+
+```
+
+Opdracht 13, Search
+
+```jsx
+const tweets = [
+  {
+    id: 1080777336298049537,
+    message: "Just shipped a new feature! 🚀",
+    author: {
+      username: "jad",
+      name: "Jad Joubran",
+    },
+  },
+  {
+    id: 1080777336298195435,
+    message: "What's your favorite JS framework?",
+    author: {
+      username: "maria",
+      name: "Maria Chen",
+    },
+  },
+  {
+    id: 1080777336298302891,
+    message: "Just hit 10k followers, thank you all! 🎉",
+    author: {
+      username: "sam",
+      name: "Sam Green",
+    },
+  },
+];
+
+function searchTweet(tweets, query) {
+  return tweets.filter((tweet) => {
+    return (tweet.message.includes(query.trim().toLowerCase()));
+  })
+}
+
+// Sample usage
+console.log(searchTweet(tweets, "  JUST   ")); // [{ 1e tweet }, { 2e tweet }]
+console.log("---");
+console.log(searchTweet(tweets, "10k")); // [{ 1e tweet }]
+console.log("---");
+console.log(searchTweet(tweets, "xyz")); // []
+
+```
+
+filter() = array
+
+includes() = voor elk woord
 
 ## Donderdag 28 mei - dag 8
 
