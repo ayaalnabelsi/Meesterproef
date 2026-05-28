@@ -1,0 +1,45 @@
+@font-face {
+    font-family: "YoungSerif";
+    src: url(../../fonts/YoungSerif-Regular.ttf);
+}
+
+body {
+    background-color: #FDF1D7;
+    color: #AF2900;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    font-size: 1.5em;
+}
+
+section {
+    padding-inline: 4em;
+    padding-top: 1.5em;
+    padding-bottom: 4em;
+}
+
+h1 {
+    font-family: "YoungSerif";
+}
+
+h2 {
+    text-align: left;
+    margin-bottom: 0em;
+    font-family: "YoungSerif";
+    font-size: 2.5em;
+    letter-spacing: 0.02em;
+    margin-bottom: 0;
+}
+
+p {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+	display: flex;
+	justify-content: center;
+}
+
+article {
+	width: 80ch;
+}

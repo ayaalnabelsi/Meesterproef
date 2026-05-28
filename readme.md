@@ -430,8 +430,7 @@ videlio/
 ## Woensdag 27 mei - dag 7
 ## **JavaScript voor medium+ Workshop - Jad**
 
-Alisha
-
+##### Alisha
 Een paar kleine oefeningen in JS om je meer te laten oefenen met de functies en de syntax
 
 Opdracht 1
@@ -724,6 +723,31 @@ includes() = voor elk woord
 
 ## Donderdag 28 mei - dag 8
 
+### Wat hebben we vandaag gedaan?
+#### Alisha
+# Toegankelijkheid, privacy, en html in je ontwerpproces
+
+WCAG is nuttig opzich, het zijn goeie uitgangspunten. ZIe het niet als doelen maar als uitgangspunt. 
+Contact formulier → is een privacy ding en daar moet je iets mee.
+Hoe belangrijk is de data die wordt verstuurd?
+Email en je naam voor het contact formulier worden gebruikt. 
+Hide email functie, misschien bestaat er een API voor? Hoe ga ik hiermee om, dat ik als organisatie? 
+Check hier om akkoord te gaan met de algemeene voorwaarden ipv een cookie warning.
+Hebben ze google analytics om hun site? Want dan heb je wel een cookie warning nodig omdat data gedeeld wordt met een derde partij. 
+Hoe werkt een cookie warning? Modal popup, of rechts onder, accepteren of niet accepteren.
+Als ze zeggen dat ze wel google analytics gebruiken dan moet er wel een cookie warning in of dan moeten ze een ander analytics paket gebruiken die dat niet nodig heeft.
+Hoe maakt je een cookie warning toegankelijk als ze wel google analytics gebruiken?
+Moet je de warning meteen horen of gaande weg of aan het eind?
+Gaande weg is irritand
+Aan het eind daar komt niemand
+Als je m visueel onderin zet, dan kunnen slechtziende de warning negeren.
+Waarom mensen wel op accepteren klikken ipv niet → Vormgeving van de knoppen, design pattern/ “dark pattern”.
+Mag ik een cookie opslaan in jou local storage? Dat mag wel omdat het op je browser staat en niet op een server. 
+Maak het zo min irritant mogelijk voor de gebruiker.
+Als de gebruiker de cookies weigeren dan kan je dat opslaan in local storage.
+
+Kijk naar media queries die de gebruiker heeft en pas ze dan toe op de site.
+
 ### Wat gaan we morgen doen?
 - 14:00 bij de opdrachtgever
 
@@ -780,3 +804,8 @@ includes() = voor elk woord
 ## Reflectie 
 
 # Bronnen
+
+- [prefers-color-scheme](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/At-rules/@media/prefers-color-scheme)
+- [foto van hero versie 2 van week 2](https://stockcake.com/i/sunset-beach-walk_1444034_1134779)
+- [foto van hero versie 2 van week 2](https://www.magnific.com/free-photos-vectors/older-couple-sunset/2#uuid=d0d06d0e-01af-4097-bd25-c4ba22cf7113)
+- [videlio logo](https://videlio.nl/wp-content/uploads/2025/03/Logo-rood-zonder-kader-300x152-1.png)
