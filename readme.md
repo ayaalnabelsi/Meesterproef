@@ -804,3 +804,8 @@ Kijk naar media queries die de gebruiker heeft en pas ze dan toe op de site.
 ## Reflectie 
 
 # Bronnen
+
+- [prefers-color-scheme](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/At-rules/@media/prefers-color-scheme)
+- [foto van hero versie 2 van week 2](https://stockcake.com/i/sunset-beach-walk_1444034_1134779)
+- [foto van hero versie 2 van week 2](https://www.magnific.com/free-photos-vectors/older-couple-sunset/2#uuid=d0d06d0e-01af-4097-bd25-c4ba22cf7113)
+- [videlio logo](https://videlio.nl/wp-content/uploads/2025/03/Logo-rood-zonder-kader-300x152-1.png)
