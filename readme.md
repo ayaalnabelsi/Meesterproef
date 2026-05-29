@@ -755,7 +755,7 @@ Kijk naar media queries die de gebruiker heeft en pas ze dan toe op de site.
 
 Vandaag waren Aya B en ik (Alisha) de test gaan doen omdat de rest van ons team ziek was.
 
-# Test 2 – Feedbacksessie
+# Test 2 en feedback over V2
 
 **Meeting notes Alisha**
 
