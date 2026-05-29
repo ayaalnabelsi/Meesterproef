@@ -1005,10 +1005,10 @@ Dus trackingcookies lijken niet passend binnen de scope.
 
 # Algemene feedback van Rogier & Peter
 
-- De witte tekst op de hero-afbeelding heeft goed contrast.
+- De witte tekst op de hero afbeelding heeft goed contrast.
 - De afbeelding werkt als sterke metafoor.
 - “Totaal anders dan het andere groepje, wel leuk.” - Rogier
-- De hero voelt open en aangenaam.
+- De hero voelt aangenaam.
 - Ze waren positief verrast door de sfeer van de website.
 
 ## Extra aandachtspunten
@@ -1073,3 +1073,4 @@ Dus trackingcookies lijken niet passend binnen de scope.
 - [foto van hero versie 2 van week 2](https://stockcake.com/i/sunset-beach-walk_1444034_1134779)
 - [foto van hero versie 2 van week 2](https://www.magnific.com/free-photos-vectors/older-couple-sunset/2#uuid=d0d06d0e-01af-4097-bd25-c4ba22cf7113)
 - [videlio logo](https://videlio.nl/wp-content/uploads/2025/03/Logo-rood-zonder-kader-300x152-1.png)
+- AI Is alleen gebruikt voor de structuur/spelling van de meeting notes in de Readme
