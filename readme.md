@@ -754,10 +754,10 @@ Kijk naar media queries die de gebruiker heeft en pas ze dan toe op de site.
 ## Vrijdag 29 mei - dag 9
 
 Vandaag waren Aya B en ik (Alisha) de test gaan doen omdat de rest van ons team ziek was.
-*** Meeting notes Alisha:***
+
 # Test 2 – Feedbacksessie
 
-**Alisha**
+**Meeting notes Alisha**
 
 Vrijdag 14:00 uur bij CMD
 
@@ -845,12 +845,12 @@ Houd het simpel en zorg voor sterk contrast.
 
 ### Belangrijke opmerkingen
 
-- Er ontbreekt nog duidelijk een “door”-component in het verhaal: door wie wordt het gemaakt?
+- Er ontbreekt nog duidelijk een “door” component in het verhaal: door wie wordt het gemaakt?
 - De zin:
     
     *“Samen creëren we een wereld met ruimte voor iedereen”*
     
-    werd als te ambitieus ervaren.
+    was te ambitieus.
     
 
 Een betere richting zou zijn:
@@ -872,7 +872,7 @@ Antwoord:
 Ja.
 
 - Een podcast wordt vaak in delen opgenomen en gemonteerd.
-- Een radio-opname is meestal rauwer en directer opgenomen.
+- Een radio opname is meestal rauwer en directer opgenomen.
 
 ### Kleine copy feedback
 
@@ -884,7 +884,7 @@ Ja.
 
 ### Nieuwssectie
 
-De huidige “nieuws”-pagina klopt inhoudelijk niet helemaal.
+De huidige “nieuws”pagina klopt inhoudelijk niet helemaal.
 
 Nieuws zou meer moeten gaan over:
 
@@ -925,8 +925,7 @@ Er werd gesproken over interactie op de website:
 ## Contact & socials
 
 ### Contactformulier
-
-Het contactformulier moet bedoeld zijn voor professionele vragen, niet voor forum-achtige discussies.
+Het contactformulier moet bedoeld zijn voor professionele vragen, niet voor forum achtige discussies.
 
 ### Geen socials
 
@@ -1008,7 +1007,7 @@ Dus trackingcookies lijken niet passend binnen de scope.
 
 - De witte tekst op de hero-afbeelding heeft goed contrast.
 - De afbeelding werkt als sterke metafoor.
-- “Totaal anders dan het andere groepje, wel leuk.” – Rogier
+- “Totaal anders dan het andere groepje, wel leuk.” - Rogier
 - De hero voelt open en aangenaam.
 - Ze waren positief verrast door de sfeer van de website.
 
