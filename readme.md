@@ -1,5 +1,79 @@
 # Meesterschap
+In deze readme staan de Design Rationale en de Product Biografie van onze teams opdracht.
 
+# Design rationale
+
+## Debriefing
+### Aanleiding
+Wij als team gaan de website van Videlio redesignen zodat ie echt voelt zoals Videlio nu is: een plek waar VIPs (VIP staat voor Visually impaired person) elkaar helpen om weer relevant te zijn en waar ze graag bij willen aansluiten. Het moet direct duidelijk maken waar Videlio voor staat en uitnodigend zijn om mee te doen. Voor VIPs zelf is het belangrijk dat ze snel hun weg kunnen vinden op de website, zonder eerst alles te hoeven doorlezen. De reden voor het redesign is dat de huidige website niet altijd duidelijk laat zien wie Videlio is en wat VIPS wél kunnen. Ook is het met de huidige website nog lastig om snel informatie te vinden of actief mee te doen. 
+
+### De probleemsituatie 
+De huidige website sluit niet meer volledig aan bij de groei en identiteit van Videlio. In de afgelopen jaren is Videlio veranderd in een bruisende community rond persoonlijke ontwikkeling, toegankelijkheid, innovatie, media en samenwerking.  
+ 
+De website moet bezoekers niet alleen informeren, maar ook uitnodigen om mee te doen. VIP’s moeten zich direct herkennen en voelen dat Videlio een plek is waar zij kunnen aanhaken, groeien, ontmoeten, hun stem laten horen of samen met anderen iets kunnen bouwen. 
+ 
+Daarnaast moet de website toegankelijk zijn voor blinde bezoekers, slechtziende bezoekers, goedziende bezoekers en alles daartussenin. WCAG 2.2 niveau AA is hierbij het uitgangspunt. Toegankelijkheid gaat niet allen over techniek, maar ook over toon, structuur, navigatie, taal, rust, snelheid en autonomie. 
+
+### De focus of kadering
+ 
+Wij richten ons als team op het ontwerpen en bouwen van een nieuwe website voor Videlio waarin toegankelijkheid en community centraal staan. 
+Onse focus ligt op : 
+
+- Een duidelijke en toegankelijke navigatiestrctuur.  
+- Een sterke eerste indruk waarin bezoekers snel begrijpen waar Videlio. Routes voor verschillende bezoekers zoals VIP’s, makers, studenten, partners or organisaties.  
+- Een ontwerp dat niet aanvoelt als een zorgwebsite, maar als een actieve en zelfbewuste community. 
+- Functies die toegankelijkheid ondersteunen, zoals contrast, tekstgrootte en een korte tekstversie.  
+- Content die uitnodigt, prikkelt en activeert in plaats van alleen uitlegt. 
+
+### De design challenge
+Hoe kunnen we een betekenisvolle, leuke verandering ontwerpen voor mensen die het web niet kunnen zien? 
+
+Wat betekent “leuk” of “een geweldige ervaring” voor iemand die blind of slechtziend is?  Is er al voldoende kennis over wat gebruikers als prettig, intuïtief en entertainend ervaren, of is aanvullend onderzoek nodig om dit beter te begrijpen? Hoeveel “nonesense” gaan we toevoegen aan de website? Gaan we “nonesense” toevoegen? 
+
+Binnen deze challenge onderzoeken we hoe toegankelijkheid verder kan gaan dan alleen functioneel gebruik. Hoe creëren we een ervaring die niet alleen bruikbaar is, maar ook verrast, plezier geeft en emotionele waarde toevoegt? Denk hierbij aan audio, haptische feedback, storytelling, navigatie, interactie en inclusieve ontwerpprincipes. 
+
+De centrale vraag is: 
+Hoe ontwerpen we een inclusieve online ervaring die mensen met een visuele beperking niet alleen ondersteunt, maar ook écht laat genieten van het web?  
+
+### Procesopzet
+Hoe gaan we het aanpakken? Eerst onderzoeken we wat VIPs nodig hebben en hoe zij de huidige website ervaren. Daarbij kijken we welke problemen ze tegenkomen, hoe ze belangrijke informatie willen ontvangen en welke functies voor hen het belangrijkst zijn.  
+
+We gaan kijken wat al goed werkt en wat beter kan, zodat we kunnen bepalen welke onderdelen van de identiteit van Videlio duidelijk terug moeten komen en hoe bezoekers sneller hun weg kunnen vinden. Op basis hiervan ontwerpen we een nieuwe website die overzichtelijk, toegankelijk en uitnodigend is, en die de kernwaarden van Videlio laat zien. 
+
+## Onderzoeksvragen  
+### Hoofdvraag 
+Hoe kunnen wij de website van Videlio redesignen zodat blinde en slechtziende gebruikers zelfstandig kunnen navigeren, zich aangesproken voelen door de identiteit van Videlio en sneller worden geactiveerd om mee te doen aan de community? 
+
+### Deelvragen 
+- Welke problemen ervaren blinde en slechtziende gebruikers op de huidige website? Dode links, aanmeldprocedure  
+- Hoe willen gebruikers belangrijke informatie aangeboden krijgen? 
+- Welke onderdelen van de identiteit van Videlio moeten zichtbaar terugkomen in het design? 
+- Hoe kunnen bezoekers sneller hun weg vinden op de website? 
+- Welke elementen zorgen ervoor dat gebruikers zich welkom voelen? 
+- Welke toegankelijkheidsfuncties zijn het belangrijkst voor de doelgroep? 
+- Welke onderdelen van de website vinden jullie het belangrijkst? 
+- Zijn er functies of ideeën die jullie sowieso terug willen zien? 
+- Wat mag absoluut niet verloren gaan uit de huidige website? 
+- Welke problemen willen jullie met de redesign vooral oplossen? 
+- Wat hopen jullie dat bezoekers anders ervaren op de nieuwe website? 
+- Welke sfeer moet de website uitstralen? 
+
+### Vragen voor de opdrachtgever(s)
+- Wat verwachten jullie uiteindelijk van ons als team? 
+- Wanneer zouden jullie het project als succesvol zien? 
+- Hoe willen jullie het liefst communiceren tijdens het project? 
+- Hoe vaak willen jullie tussentijdse updates of meetings? 
+- Zijn er bepaalde momenten waarop jullie extra betrokken willen zijn bij het proces? 
+- Verwachten jullie over 4 weken een volledig werkende website of een interactief prototype?  
+- Hoeveel creatieve vrijheid krijgen wij binnen het project? 
+- Moeten we de hele website uitwerken, of ligt de focus op een paar specifieke pagina’s? Omdat de website best veel pagina’s en links heeft  
+
+### Userscenario
+Nils is 28 jaar en blind. Hij hoort vrienden en collega’s vaak praten over hoe creatief en visueel het internet kan zijn. Hoewel hij gebruikmaakt van websites via een screenreader, voelt het web voor hem vooral onoverzichtelijk. Eerst leest een screenreader een heel menu uit en daarna pas de rest van de website content. Wanneer Nils op de website komt heeft hij geen impressie van waar de website voor staat of wat het doel is omdat hij de uitstraling van de site niet kan zien. 
+
+Na veel frustraties komt Nils de website van Videlio tegen, een website die is gemaakt voor visually impared people als uitgangs punt en niet als nagedachte. Hij gaat door de website heen met zijn screenreader en komt een al snel een speciale knop tegen: “voor screenreaders” hij toggled deze aan en heeft meteen al een idee van waar de website voor staat als hij door de website heen gaat. Hij vond de website zo goed gebouwd door de structuur die speciaal voor hem is ontworpen dat hij zich afvraagt waarom andere websites dat nou niet hebben. 
+
+# Productbiografie
 # Week 1
 ## Maandag 18 mei - dag 1
 #### Aya B
