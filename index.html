@@ -4,147 +4,156 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles/style.css">
-    <link rel="stylesheet" href="styles/footer.css">
+    <link rel="stylesheet" href="v2-hero.css">
     <title>Videlio</title>
-    <script src="js.js" defer></script>
 </head>
 
 <body>
-     <header class="site-header">
+    <header class="site-header">
+        <div class="header-left">
+            <a href="./v2-hero.html" class="logo">
+                <img src="https://videlio.nl/wp-content/uploads/2025/03/Logo-rood-zonder-kader-300x152-1.png"
+                    alt="Videlio logo">
+            </a>
+            <a href="https://ayaalnabelsi.github.io/Compacte-VIP-Website-Videlio/" class="mode-toggle" type="button">
+                <span class="toggle-icon"></span>
+                <span>VIP-mode</span>
+
+            </a>
+        </div>
+
+
         <nav class="navigation">
             <ul class="navigation-list">
-                <li><a href="index.html">Home</a></li>
-                <li><a href="about.html">Over ons</a></li>
-                <li><a href="services.html">Activiteiten</a></li>
+                <li><a href="v2-hero.html">Over ons</a></li>
+                <li><a href="">Projecten</a></li>
+                <li><a href="blog/ebook.html">Blog</a></li>
             </ul>
         </nav>
-         <section class="hero">
-            <div class="hero-content">
-                <h1>Videlio</h1>
-                <p>Met een positieve en concrete aanpak volwaardig<br>
-                    meedoen in de maatschappij
-                </p>
-                <a href="about.html" class="button-secondary">Wie zijn wij</a>
+        <a href="#" class="donate-button">Doneren</a>
 
-            </div>
-            <div class="scroll-indicator">
-                <span></span>
-            </div>
-        </section>
+
     </header>
     <main>
-        <section class="projects">
-            <h2>Onze projecten</h2>
-            <div class="card-container">
-                <div class="project-card">
-                    <h3>Lumicane</h3>
-                    <p>Videlio ontwikkelt lichtgevende stok</p>
-                </div>
-                <div class="project-card">
-                    <h3>Project Viziere</h3>
-                    <p>Onderzoek naar drempels voor inclusiviteit in de buurt</p>
-                </div>
-                <div class="project-card">
-                    <h3>OV Knoop</h3>
-                    <p>Groei voor Eindhoven centraal.</p>
-                </div>
+        <section class="hero">
+
+            <img src="./hero-images/sunset.jpg" alt="hero sunset">
+            <div class="hero-content">
+                <h1>Samen creëren we een wereld met ruimte voor iedereen.</h1>
+                <p>
+                    Videlio is er voor mensen met een visuele beperking.
+                    We verbinden, inspireren en versterken elkaar.
+                </p>
+                <a href="#" class="hero-button">Ontdek Videlio</a>
+
             </div>
         </section>
-        <h2>Ervaringen van de community</h2>
-        <section class="community-experiences">
-            <article>
-                <h3>Hans</h3>
-                <img src="community-images/hans.png" alt="Foto van Hans">
-                <p> <i> "Toegankelijkheid voor iedereen in Eindhoven"</i></p>
-                <button>Contact Hans</button>
-            </article>
-            <article>
-                <h3>John</h3>
-                <img src="community-images/john.png" alt="Foto van John">
 
-                <p> <i>"Maakt het onmogelijke mogelijk!"</i> </p>
-                <button>Contact John</button>
-            </article>
 
-            <article>
-                <h3>Peter Meuleman</h3>
-                <img src="community-images/peter.png" alt="Foto van Peter">
 
-                <p> <i>"Je moet bewegen voor je kunt sturen"</i> </p>
-                <button>Contact Peter</button>
-            </article>
+        <section class="intro-cards" aria-label="Introductie van Videlio">
+                <article class="intro-card">
+                    <span class="card-icon">☷</span>
+                    <h2>Wat betekent VIP?</h2>
+                    <p>
+                        VIP staat voor 'Visueel Inpaired person'. Wij zetten ons in voor een wereld waarin VIP's
+                        volwaardig mee
+                        kunnen doen.
+                    </p>
 
-            <article>
-                <h3>Roger Ravelli</h3>
-                <img src="community-images/roger.png" alt="Foto van Roger">
+                    <a href="#">Lees meer →</a>
+                </article>
+                <article class="intro-card">
+                    <span class="card-icon">💡</span>
+                    <h2>Wat is VIP Lab?</h2>
+                    <p>
+                        VIP Lab is onze plek voor innovatie. Hier ontwikkelen we samen nieuwe
+                        ideeën, projecten en oplossingen.
+                    </p>
+                    <a href="#">Lees meer →</a>
+                </article>
+                <article class="intro-card">
+                    <span class="card-icon">♡</span>
+                    <h2>Doe mee</h2>
+                    <p>
+                        Word lid, sluit je aan bij onze community of draag bij aan onze missie.
 
-                <p> <i>"Roeien met de riemen die je wel hebt"</i> </p>
-                <button>Contact Roger</button>
-            </article>
+                    </p>
+                    <a href="#">Doe mee</a>
+                </article>
+        </section>
+        <section class="focus-section">
+                <div class="focus-header">
+                    <div>
+                        <h2>Onze focus</h2>
+                        <p>Samen werken we aan projecten die echt impact maken.</p>
+                    </div>
 
+                    <a href="#" class="focus-button">Bekijk alle projecten →</a>
+                </div>
+
+                <div class="focus-grid">
+                    <a  href="projects/podcasts.html" class="focus-card">
+                        <img src="projects-images/podcast.avif" alt="Podcast microfoon">
+                        <div>
+                            <h3>Podcasts</h3>
+                            <p>Inspirerende verhalen uit onze community.</p>
+                        </div>
+                    </a>
+
+                    <a  href="projects/projects.html" class="focus-card">
+                        <img src="projects-images/workshop.avif" alt="Mensen tijdens een workshop">
+                        <div>
+                            <h3>Workshops</h3>
+                            <p>Ontwikkel jezelf en leer van anderen.</p>
+                        </div>
+                    </a>
+
+                    <a href="projects/innovation.html" class="focus-card">
+                        <img src="projects-images/innovatie.avif" alt="Lamp als symbool voor innovatie">
+                        <div>
+                            <h3>Innovatie</h3>
+                            <p>Nieuwe ideeën, nieuwe kansen.</p>
+                        </div>
+                    </a>
+
+                    <a class="focus-card">
+                        <img src="projects-images/community.avif" alt="Groep mensen samen">
+                        <div>
+                            <h3>Community</h3>
+                            <p>Samen staan we sterker.</p>
+                        </div>
+                    </a>
+                </div>
         </section>
 
-        <h2>Sluit je aan bij de community</h2>
-        <section class="join-community">
-            <article>
-                <h3>Deelnemer</h3>
-                <p>Wat zijn je vragen en waar heb je behoefte aan? Doe mee aan workshops, cursus, projecten en maak het
-                    leven voor jezelf beter, mooier en waardevoller.</p>
-                <button>Word Deelnemer</button>
-            </article>
-
-            <article>
-                <h3>Ambassadeur</h3>
-                <p>Laat je zien en horen! Mensen met een visuele beperking hebben je nodig om meer zichtbaar te zijn. Jouw
-                    bijdrage is voor ons van levensbelang.</p>
-                <button>Word Ambassadeur</button>
-            </article>
-
-            <article>
-                <h3>Belangstellende</h3>
-                <p>Doe mee, denk mee, werk samen of steun ons met een donatie, want we doen het immers samen! Samen staan we
-                    sterk in een wereld die snel verandert.</p>
-                <button>Word Belangstellende</button>
-            </article>
-        </section>
     </main>
-    <footer>
-        <div class="footer-top">
-            <h4>Join de community</h4>
-            <p>Ontdek, verbind en groei mee met de Videlio community.</p>
+    <footer class="site-footer">
+        <div class="footer-content">
+            <section class="footer-block">
+                <h2>Contact</h2>
+                <p>We horen graag van je!</p>
+                <a href="./contact.html" class="footer-button">Naar contactformulier</a>
+            </section>
+            <section class="footer-block">
+                <h2>Volg ons</h2>
+                <ul class="social-list">
+                    <li><a href="#" aria-label="Facebook">F</a></li>
+                    <li><a href="#" aria-label="Instagram">I</a></li>
+                    <li><a href="#" aria-label="YouTube">Y</a></li>
+                </ul>
+            </section>
+            <section class="footer-block">
+                <h2>Videlio</h2>
+                <p>
+                    Videlio is er voor mensen met een visuele beperking.
+                    We verbinden, inspireren en versterken elkaar.
+                </p>
+            </section>
 
-            <div class="email">
-            <input type="email" placeholder="Vul je e-mailadres in" required>
-            <button type="submit">Inschrijven</button>
-            </div>
         </div>
-        <div class="footer-bottom">
-            <ul class="links">
-            <li><a href="">Over ons</a></li>
-            <li><a href="">Workshops</a></li>
-            <li><a href="">Nieuws</a></li>
-            <li><a href="">Donaties</a></li>
-            <li><a href="">OV knoop</a></li>
-            <li><a href="">Project Viziere</a></li>
-            <li><a href="">Lumicane</a></li>
-            </ul>
 
-            <div class="footer-info">
-            <img src="footer-images/Logo-rood-zonder-kader-300x152-1.png" alt="Logo" class="logo">
 
-            <div class="contact">
-                <a href="tel:+31628386697">📞 +31 6 2838 6697</a>
-                <a href="mailto:info@videlio.nl"> ✉️ info@videlio.nl</a>
-            </div>
-
-            <div class="socials">
-                <a href=""><img src="footer-images/facebook-rounded-svgrepo-com.svg" alt="Facebook"></a>
-                <a href=""><img src="footer-images/instagram-rounded-svgrepo-com.svg" alt="Instagram"></a>
-                <a href=""><img src="footer-images/linkedin-rounded-svgrepo-com.svg" alt="LinkedIn"></a>
-            </div>
-            </div>
-        </div>
     </footer>
 </body>
 
