@@ -1017,6 +1017,9 @@ Dus trackingcookies lijken niet passend binnen de scope.
 - Ze zijn geen patiëntenvereniging.
 - Ze helpen elkaar vooral bij het omgaan met situaties en deelname aan de samenleving.
 
+# V2.0 - Website eind week 2
+<img src="readme-images/v2.gif">
+
 # Week 3
 ## Maandag 1 juni - dag 10
 - Meeting met projectcoach om ???
