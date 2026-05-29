@@ -753,6 +753,271 @@ Kijk naar media queries die de gebruiker heeft en pas ze dan toe op de site.
 
 ## Vrijdag 29 mei - dag 9
 
+Vandaag waren Aya B en ik (Alisha) de test gaan doen omdat de rest van ons team ziek was.
+*** Meeting notes Alisha:***
+# Test 2 – Feedbacksessie
+
+**Alisha**
+
+Vrijdag 14:00 uur bij CMD
+
+## Toegankelijkheid & Screenreaders
+
+Ze hebben geen laptop mee, maar gebruiken wel screenreaders zoals SuperNova en NVDA. Rogier gaf aan dat wanneer hij iets schrijft in Word, hij het ook laat uitspreken.
+
+Bij 3D ontwerptools of programmeertools heeft een screenreader weinig nut. Hoewel je veel kunt doen met screenreaders, lossen ze niet alles op. Bijvoorbeeld: een grafiek maken of complexe visuele informatie begrijpen blijft lastig.
+
+Er werd benoemd dat succesverhalen vaak de nadruk krijgen, maar dat die juist meer impact maken wanneer ook de beperkingen en keerzijde zichtbaar worden.
+
+---
+
+## Compacte en uitgebreide versie van de website
+
+### Huidige situatie
+
+- Je begint in de normale versie van de website.
+- Al vroeg kun je kiezen voor een compacte versie.
+- Zodra je in de compacte versie zit, blijf je daarin.
+- Op dit moment kun je alleen via de header wisselen tussen compact en uitgebreid.
+
+### Feedback
+
+Het zou beter zijn als gebruikers op elk moment makkelijk kunnen wisselen tussen de compacte en uitgebreide versie.
+
+Bijvoorbeeld:
+
+- Wanneer iemand meer verdieping zoekt over een onderwerp, moet diegene eenvoudig extra informatie kunnen openen.
+- De gebruiker moet niet vastzitten in één modus.
+
+### Mogelijke oplossingen
+
+- Een sneltoets of virtuele “Meer lezen”-knop.
+- Een algemene instelling waarmee je bepaalt of je standaard in compact of uitgebreid zit.
+- Een makkelijk bereikbare toggle waarmee je altijd kunt wisselen.
+
+### Nadelen van de opties
+
+- Als alles via instellingen gaat, moet de gebruiker steeds naar settings navigeren.
+- Bij elke sectie een aparte “meer info”-knop toevoegen werkt ook niet goed.
+
+---
+
+## Vormgeving & toegankelijkheid
+
+### Positieve punten
+
+- De huidige kleur werd mooi gevonden door Peter.
+- Het contrast tussen tekst en achtergrond is goed.
+- De hero afbeelding vonden ze erg leuk:
+    - sterke metafoor
+    - open sfeer
+    - mooi gebruik van licht en de zee
+
+### Verbeterpunten
+
+- Het lettertype is wat klein.
+- Een voorkeurenmenu zou handig zijn:
+    - lettergrootte aanpassen
+    - kleuren inverteren
+    - contrast wijzigen
+
+Er werd verwezen naar toegankelijkheidsopties op MacOS, zoals high contrast modes, hoewel die vaak minder mooi ogen.
+
+### Extra feedback
+
+- De lichtblauwe kleur heeft mogelijk te weinig contrast.
+- Meer consistentie in kleurengebruik is gewenst.
+- Peter zag het verschil tussen wit en off white in de compacte versie pas laat op.
+
+**Conclusie:**
+
+Houd het simpel en zorg voor sterk contrast.
+
+---
+
+## Content & tone of voice
+
+### Algemene feedback
+
+- De tone of voice van de website wordt goed gevonden.
+- De website voelt open en toegankelijk aan.
+- “Samen onderweg” in de hero-afbeelding werkt goed als metafoor: iedereen draagt zijn eigen bagage mee.
+
+### Belangrijke opmerkingen
+
+- Er ontbreekt nog duidelijk een “door”-component in het verhaal: door wie wordt het gemaakt?
+- De zin:
+    
+    *“Samen creëren we een wereld met ruimte voor iedereen”*
+    
+    werd als te ambitieus ervaren.
+    
+
+Een betere richting zou zijn:
+
+- focus op inclusieve samenleving
+- mensen met een visuele beperking integreren in de maatschappij
+- realistischer en dichter bij de missie van de stichting blijven
+
+---
+
+## Podcast & radio
+
+Vraag:
+
+Zijn podcast en radio aparte categorieën?
+
+Antwoord:
+
+Ja.
+
+- Een podcast wordt vaak in delen opgenomen en gemonteerd.
+- Een radio-opname is meestal rauwer en directer opgenomen.
+
+### Kleine copy feedback
+
+- “Bekijk de podcast” → beter: “Beluister de podcast”
+
+---
+
+## Nieuws & contentstructuur
+
+### Nieuwssectie
+
+De huidige “nieuws”-pagina klopt inhoudelijk niet helemaal.
+
+Nieuws zou meer moeten gaan over:
+
+- aankondigingen
+- nieuw boek
+- pitchwedstrijd
+- workshops
+- evenementen
+
+Geen uitgebreide verdiepende content.
+
+### Structuurvoorstel
+
+- Verdiepende artikelen ergens anders plaatsen.
+- Nieuwsartikelen kunnen linken naar langere content.
+
+### Archief
+
+Oude artikelen hoeven niet verwijderd te worden.
+
+Een archiefpagina kan voldoende zijn.
+
+### Belangrijk inzicht
+
+“Taal, communicatie en verbeeldingskracht” hoeft niet per se prominent genoemd te worden. Dat kwam vanuit henzelf en hoeft niet centraal te staan.
+
+---
+
+## Reacties & interactie
+
+Er werd gesproken over interactie op de website:
+
+- Misschien geen reactiesysteem.
+- Wel eventueel likes of reacties onder blogs.
+
+---
+
+## Contact & socials
+
+### Contactformulier
+
+Het contactformulier moet bedoeld zijn voor professionele vragen, niet voor forum-achtige discussies.
+
+### Geen socials
+
+Ze hadden eerder een actieve LinkedIn-pagina, maar die is verwijderd vanwege een naamconflict met een ander bedrijf genaamd Videlio.
+
+Daardoor verloopt contact nu alleen via e-mail.
+
+### Toekomst
+
+Het systeem moet schaalbaar zijn:
+
+- Bijvoorbeeld bij workshops moeten inschrijvingen niet bij één persoon terechtkomen.
+- Het e-mailadres moet dus flexibel beheerd kunnen worden.
+
+---
+
+## Analytics, hosting & CMS
+
+### Google Analytics
+
+Ze zijn ermee bezig, maar gebruiken het momenteel nauwelijks.
+
+- In het begin is er wel naar gekeken.
+- Daarna niet meer actief gebruikt.
+- Daan weet hier meer van.
+
+### Hosting & beheer
+
+- Hosting loopt via Strato.
+- Daan beheert momenteel het CMS.
+- Hij heeft een klein bedrijfje: Social Point.
+
+Er werd aangegeven dat er te weinig structuur zat in eerdere communicatie:
+
+- te veel losse aanwijzingen
+- geen duidelijke lijn
+
+### Suggestie
+
+Nog bespreken:
+
+- kennismaken met Daan
+- overdracht telefonisch bespreken
+
+---
+
+## Cookies & privacy
+
+Vraag:
+
+Moet er dan een cookiemelding op de site komen?
+
+### Bespreking
+
+Ze willen de drempel zo laag mogelijk houden.
+
+Belangrijk onderscheid:
+
+- tracking cookies vs functionele cookies
+
+Functionele cookies kunnen nuttig zijn voor:
+
+- onthouden van compact/uitgebreid modus
+- toegankelijkheidsinstellingen
+
+Maar commerciële tracking past niet bij hun organisatie.
+
+Hun focus ligt niet op:
+
+- advertenties
+- commercie
+- marketingsoptimalisatie
+
+Dus trackingcookies lijken niet passend binnen de scope.
+
+---
+
+# Algemene feedback van Rogier & Peter
+
+- De witte tekst op de hero-afbeelding heeft goed contrast.
+- De afbeelding werkt als sterke metafoor.
+- “Totaal anders dan het andere groepje, wel leuk.” – Rogier
+- De hero voelt open en aangenaam.
+- Ze waren positief verrast door de sfeer van de website.
+
+## Extra aandachtspunten
+
+- Is “voor, door en met” voldoende aanwezig in de hero title?
+- Ze zijn geen patiëntenvereniging.
+- Ze helpen elkaar vooral bij het omgaan met situaties en deelname aan de samenleving.
+
 # Week 3
 ## Maandag 1 juni - dag 10
 - Meeting met projectcoach om ???
