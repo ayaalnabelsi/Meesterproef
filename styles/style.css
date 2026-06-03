@@ -1,0 +1,94 @@
+@font-face {
+    font-family: "YoungSerif";
+    src: url(../fonts/YoungSerif-Regular.ttf);
+}
+
+:focus {
+	outline: 5px white solid;
+}
+
+
+body {
+    background-color: #ffffff;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    font-size: 1.5em;
+}
+
+body:has([value="inverted"]:checked)::after {
+		content: "";
+		position: fixed;
+		inset: 0;
+		backdrop-filter: invert(1);
+		pointer-events: none;
+		z-index: 1;
+}
+
+input[value="inverted"] {
+	display: none;
+}
+
+label {
+    text-align: center;
+    display: block;
+	color: white;
+	outline: 2px white solid;
+	width: 200px;
+	border-radius: 5px;
+	padding: 10px 25px;
+    &:hover {
+        cursor: pointer;
+    }
+}
+
+section {
+    padding-inline: 4em;
+    padding-top: 1.5em;
+    padding-bottom: 4em;
+}
+
+h1 {
+    font-family: "YoungSerif";
+    color: black;
+}
+
+aside {
+		z-index: 2;
+		position: fixed;
+		top: 0;
+		right: 0;
+		background-color: black;
+		outline: 2px white solid;
+		width: 300px;
+		border-radius: 5px;
+		padding: 25px;
+		h1 {
+			font-size: 1.5em;
+			color: white;
+			font-family: Inter, 'Arial Narrow Bold', sans-serif;
+		}
+		button {
+		    width: 250px;
+            font-size: 1em;
+			padding: 10px 30px;
+			margin: 20px 0;
+			background-color: inherit;
+			outline: inherit;
+			color: white;
+			border-radius: inherit;
+			border: none;
+			display: block;
+			&:hover {
+				cursor: pointer;
+			}
+		}
+	}
+
+#bigger-text:checked ~ body {
+    font-size: 120%;
+}
+
+#bigger-text {
+    display: none; 
+}
