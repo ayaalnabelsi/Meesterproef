@@ -1,0 +1,127 @@
+<aside tabindex="0">
+	<h1>Toegankelijkheids Menu</h1>
+	<button>Compact</button>
+	<label>Tekst groter
+		<input value="smallertxt" type="radio" name="txtsize">
+	</label>
+	<label>Tekst kleiner
+   		<input value="biggertxt" type="radio" name="txtsize">
+	</label>
+	<label>Negatief 
+		<input value="inverted" type="checkbox" name="invert">
+	</label>
+</aside>
+
+<style>
+	body:has([value="biggertxt"]:checked) {
+    	bont-size: 32px;
+	}
+
+	body:has([value="smallertxt"]:checked) {
+		font-size: 24px;
+	}
+
+	body:has([value="inverted"]:checked)::after {
+		content: "";
+		position: fixed;
+		inset: 0;
+		backdrop-filter: invert(1);
+		pointer-events: none;
+		z-index: 1;
+	}
+
+	mark {
+		padding: 10px;
+		outline: 2px solid var(--font-color);
+		border-radius: 30px;
+		background-color: transparent;
+	}
+
+	h1 {
+		font-size: 3em;
+		font-family: "YoungSerif";
+		color: black;
+	}
+
+	ul {
+		display: flex;
+		list-style: none;
+		padding: 0;
+		li {
+			background-color: red;
+			width: 350px;
+			height: 200px;
+			color: var(--bg-color);
+			&:nth-child(1)
+			{
+				margin-right: 15px;
+			}
+			&:nth-child(2),
+			&:nth-child(3)
+			{
+				margin: 0 15px;
+			}
+		}
+
+	}
+
+	aside {
+		z-index: 2;
+		position: fixed;
+		top: 0;
+		right: 0;
+		background-color: var(--font-color);
+		outline: 2px var(--bg-color) solid;
+		width: 300px;
+		padding: 25px;
+		&::after {
+			top: 0;
+			left: -52px;
+			content: "";
+			position: absolute;
+			width: 50px;
+			aspect-ratio: 1;
+			background-color: var(--font-color);
+			background-image: url("icon.png");
+			background-size: contain;
+			border-left: 2px var(--bg-color) solid;
+			border-bottom: 2px var(--bg-color) solid;
+		}
+		h1 {
+			font-size: 1.5em;
+			color: var(--bg-color);
+			font-family: Inter, 'Arial Narrow Bold', sans-serif;
+		}
+		label {
+			text-align: center;
+			display: block;
+			color: var(--bg-color);
+			outline: 2px var(--bg-color) solid;
+			width: 200px;
+			border-radius: 5px;
+			padding: 10px 25px;
+			margin: 15px 0;
+			&:hover {
+				cursor: pointer;
+			}
+			input {
+				display: none;
+			}
+		}
+	}
+
+	button {
+		text-align: center;
+		display: block;
+		color: var(--bg-color);
+		outline: 2px var(--bg-color) solid;
+		width: 200px;
+		border-radius: 5px;
+		padding: 10px 25px;
+		margin: 10px 0;
+		background: transparent;
+		font-size: 1em;
+		width: 250px;
+	}
+
+</style>

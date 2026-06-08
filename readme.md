@@ -1,6 +1,22 @@
 # Meesterschap
 DR en PB in de wiki
 
+```text
+/
+├── public/
+│   └── favicon.svg
+├── src
+│   ├── assets
+│   │   └── astro.svg
+│   ├── components
+│   │   └── Welcome.astro
+│   ├── layouts
+│   │   └── Layout.astro
+│   └── pages
+│       └── index.astro
+└── package.json
+```
+
 # V1.0 - Website eind week 1
 <img src="readme-images/v1.gif">
 
