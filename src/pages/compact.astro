@@ -1,0 +1,637 @@
+---
+// import AccessibilityMenu from "../components/AccessibilityMenu.astro"
+// import Header from "../components/Header.astro"
+// import Footer from "../components/Footer.astro"
+import Layout from "../layouts/Layout.astro";
+---
+
+<Layout title="Home Page">
+    <div class="header">
+        <a href="" class="switchbtn">Korte tekst</a>
+        <ul>
+            <li>Home</li>
+            <li>Community</li>
+            <li>Blog</li>
+        </ul>
+        <a href="" class="switchbtn">Toegankelijkheid</a>
+    </div>
+
+    <div class="videlio">
+        <h1>Videlio</h1>
+        <p>Samen maken we het verschil</p>
+        <p>
+            Met een positieve en concrete aanpak volwaardig meedoen in de
+            maatschappij
+        </p>
+
+        <blockquote>
+            <p>VIP</p>
+            <p>
+            Visually<br />Impaired<br />Person
+            </p>
+        </blockquote>
+        <a href="" class="doemee">Doe mee</a>
+    </div>
+
+    <section class="info">
+        <div class="ontwikkeling">
+            <h2>PERSOONLIJKE ONTWIKKELING</h2>
+            <p>Groei, inspiratie en verbinding. Ontdek wat er wél kan.</p>
+
+            <details>
+                <summary> Podcast & Radio </summary>
+                <summary> Community </summary>
+                <summary> Viziere </summary>
+            </details>
+            <a href="" class="meer">MEER OVER PERSOONLIJKE ONTWIKKELING → </a>
+        </div>
+
+        <div class="innovatie">
+            <h2>INNOVATIE</h2>
+            <p>Samen bouwen aan slimme oplossingen voor echte vragen.</p>
+            <details>
+                <summary> VIPLab </summary>
+                <summary> Lumicane </summary>
+            </details>
+            <a href="" class="meer">MEER OVER INNOVATIE → </a>
+        </div>
+
+        <div class="TOEGANKELIJKHEID">
+            <h2>FYSIEKE TOEGANKELIJKHEID</h2>
+            <p>Samen werken aan een toegankelijke omgeving.</p>
+            <details>
+                <summary> OV knooppunten </summary>
+                <summary> Navigeren door de stad met een stok </summary>
+
+                <summary> Mobiliteit in de openbare ruimte </summary>
+            </details>
+            <a href="" class="meer">MEER OVER FYSIEKE TOEGANKELIJKHEID → </a>
+        </div>
+    </section>
+
+    <section class="algemeen">
+        <div class="vip">
+            <h2>Wat betekent VIP</h2>
+            <p>
+                VIP staat voor Visually Impaired Person. Wij zetten ons in voor
+                een wereld waarin VIP's volwaardig mee kunnen doen.
+            </p>
+        </div>
+
+        <div class="viplab">
+            <h2>Wat betekent VIP</h2>
+            <p>
+                VIPLab is de maakplek van Videlio.<br />
+                VIPs en makers bouwen hier samen aan hulpmiddelen en oplossingen
+                voor mensen met een visuele beperking. VIPLab krijgt een plek in
+                het toekomstige ontmoetingscentrum van Videlio in Eindhoven.
+            </p>
+        </div>
+
+        <div class="voorwie">
+            <h2>Voor wie is VIPLab?</h2>
+            <p>
+                • VIPs met een vraag, probleem of idee.<br />
+                • Studenten, ontwerpers, techneuten, ondernemers en makers.<br
+                />
+                • Organisaties of mensen die willen bijdragen met kennis, materiaal,
+                netwerk of geld.
+            </p>
+        </div>
+
+        <div class="watkunje">
+            <h2>Wat kun je doen bij VIPLab?</h2>
+            <p>
+                • Een dagelijkse uitdaging inbrengen<br />
+                • Meedenken over een oplossing<br />
+                • Meehelpen met bouwen, testen of ontwerpen<br />
+                • Hulpmiddelen en lifehacks ontwikkelen<br />
+                • Meedoen aan workshops, zoals Stok & Stekker
+            </p>
+        </div>
+    </section>
+
+    <section class="extra">
+        <div class="extra-title">
+            <h3>
+                Samen STERKER.<br />
+                SAMEN VIDELIO.
+            </h3>
+        </div>
+    
+        <div class="cards">
+            <div class="list">
+                <img src="icon2.png" alt="" />
+                <h3>Deel je ervaring</h3>
+                <p>Jouw verhaal inspireert anderen.</p>
+            </div>
+    
+            <div class="list">
+                <img src="icon2.png" alt="" />
+                <h3>Doe mee aan activiteiten</h3>
+                <p>Workshops, bijeenkomsten en meer.</p>
+            </div>
+    
+            <div class="list">
+                <img src="../images/" alt="" />
+                <h3>Werk mee aan innovatie</h3>
+                <p>Bouw mee aan slimme oplossingen.</p>
+            </div>
+    
+            <div class="list">
+                <img src="icon2.png" alt="" />
+                <h3>Word onderdeel van de community</h3>
+                <p>Ontmoet anderen en groei samen.</p>
+            </div>
+    
+            <a href="" class="wordlid">Word lid van Videlio →</a>
+        </div>
+    </section>
+
+    <section class="footer">
+        <div class="form">
+            <h4>Contact</h4>
+        
+            <p>
+                Heb je een vraag, idee of wil je samenwerken?<br />
+                Wij horen graag van je!
+            </p>
+        
+            <div class="contactgegevens">
+                <p><strong>Videlio</strong></p>
+                <p>📧 john@videlio.nl</p>
+                <p>📞 06 28386697</p>
+            </div>
+        </div>
+
+        <form class="contact">
+            <div class="group">
+                <label for="naam">Naam</label>
+                <input type="text" id="naam" name="naam" required />
+            </div>
+
+            <div class="form-group">
+                <label for="email">E-mail</label>
+                <input type="email" id="email" name="email" required />
+            </div>
+
+            <div class="form-group">
+                <label for="bericht">Bericht</label>
+                <textarea id="bericht" name="bericht" rows="6" required
+                ></textarea>
+            </div>
+
+            <button type="submit" class="contact-button"> Versturen </button>
+        </form>
+    </section>
+</Layout>
+
+<script></script>
+<style>
+    * {
+        box-sizing: border-box;
+    }
+
+    body {
+        margin: 0;
+        font-family: Arial, sans-serif;
+        background-color: #ffffff;
+        color: #ffffff;
+    }
+
+    .header {
+        background-color: black;
+    }
+
+    .videlio {
+        background-color: black;
+        display: grid;
+        grid-template-columns: 2fr 1fr;
+        grid-template-rows: auto;
+        gap: 10px 40px;
+        padding: 60px 20px;
+    }
+
+    .videlio h1 {
+        grid-column: 1;
+        margin: 0 0 10px 0;
+    }
+
+    .videlio p {
+        grid-column: 1;
+        margin: 5px 0;
+        color: #ccc;
+    }
+
+    .videlio .doemee {
+        grid-column: 1;
+        justify-self: start;
+        margin-top: 20px;
+
+        display: inline-block;
+        padding: 12px 24px;
+        background: white;
+        color: black;
+        text-decoration: none;
+        border-radius: 8px;
+        font-weight: bold;
+    }
+
+    .videlio blockquote {
+        grid-column: 2;
+        grid-row: 1 / span 10;
+        align-self: center;
+        justify-self: end;
+        text-align: right;
+        font-size: 20px;
+        font-weight: bold;
+        color: white;
+        background-color: #af2a01;
+        border-radius: 50%;
+        padding: 1.2em;
+    }
+    
+    blockquote p:first-of-type{
+        display: flex;
+        justify-content: center;
+    }
+
+    .info {
+        display: flex;
+        gap: 24px;
+        padding: 60px 20px;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .info > div {
+        flex: 1;
+        min-width: 260px;
+
+        background: #111;
+        border: 1px solid #222;
+        border-radius: 16px;
+
+        padding: 24px;
+        color: white;
+
+        box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+        transition:
+            transform 0.2s ease,
+            box-shadow 0.2s ease;
+    }
+
+    .info > div:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 15px 35px rgba(0, 0, 0, 0.5);
+    }
+
+    .info h2 {
+        margin-top: 0;
+        font-size: 18px;
+    }
+
+    .info p {
+        color: #ffffff;
+        line-height: 1.5;
+    }
+
+    .info details {
+        margin-top: 10px;
+        color: #ffffff;
+        font-weight: 600;
+    }
+
+    .info .meer {
+        display: inline-block;
+        margin-top: 15px;
+        color: white;
+    }
+
+    .meer {
+        display: inline-block;
+        text-decoration: none;
+        margin-top: 15px;
+        background: #af2a01;
+        padding: 10px 16px;
+        border-radius: 8px;
+        font-weight: 600;
+        transition:
+            background 0.2s ease,
+            color 0.2s ease;
+    }
+
+    .meer:hover {
+        background: #007bff;
+        color: white;
+    }
+
+    details summary {
+        list-style: none;
+        cursor: pointer;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    details summary::-webkit-details-marker {
+        display: none;
+    }
+
+    details summary::after {
+        content: "▾";
+        font-size: 14px;
+        transition: transform 0.2s ease;
+    }
+
+    details[open] summary::after {
+        transform: rotate(180deg);
+    }
+
+    .algemeen {
+        display: flex;
+        gap: 20px;
+        padding: 60px 20px;
+        flex-wrap: wrap;
+    }
+
+    .algemeen > div {
+        flex: 1;
+        min-width: 200px;
+        aspect-ratio: 1 / 1;
+
+        background:#af2a01;
+        border: 1px solid #222;
+        border-radius: 16px;
+
+        padding: 20px;
+        color: white;
+
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+
+        box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+    }
+
+    .algemeen h2 {
+        font-size: 15px;
+        margin-bottom: 10px;
+    }
+
+    .algemeen p {
+        font-size: 13px;
+        line-height: 1.4;
+    }
+    
+    .extra {
+    background: #ffffff;
+    padding: 60px 20px;
+
+    display: grid;
+    grid-template-columns: 300px 1fr;
+    gap: 40px;
+    align-items: start;
+}
+
+.extra-title h3 {
+    margin: 0;
+    color: #af2a01;
+    font-size: 2rem;
+}
+
+.cards {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+}
+
+.list {
+    border: 1px solid #222;
+    border-radius: 16px;
+    padding: 20px;
+    text-align: center;
+}
+
+.list img {
+    width: 60px;
+    height: 60px;
+    margin-bottom: 10px;
+}
+
+.list h3 {
+    color: white;
+    margin: 10px 0;
+    font-size: 1rem;
+}
+
+.list p {
+    color: #ccc;
+}
+
+.wordlid {
+    grid-column: 1 / -1;
+
+    display: inline-block;
+    justify-self: start;
+
+    margin-top: 10px;
+    padding: 12px 20px;
+
+    background: #af2a01;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+.extra {
+    background: #000;
+    padding: 60px 20px;
+
+    display: grid;
+    grid-template-columns: 300px 1fr;
+    gap: 40px;
+    align-items: start;
+}
+
+.extra-title h3 {
+    margin: 0;
+    color: #af2a01;
+    font-size: 2rem;
+}
+
+.cards {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+}
+
+.list {
+    background: #ffffff;
+    border: 5px solid #af2a01;
+    border-radius: 16px;
+    padding: 20px;
+    text-align: center;
+    color: #000;
+}
+
+.list img {
+    width: 60px;
+    height: 60px;
+    margin-bottom: 10px;
+}
+
+.list h3 {
+    color: rgb(0, 0, 0);
+    margin: 10px 0;
+    font-size: 1rem;
+    
+}
+
+.list p {
+    color: #000000;
+}
+
+.wordlid {
+    grid-column: 4 / -1;
+
+    display: inline-block;
+    justify-self: end;
+
+    margin-top: 10px;
+    padding: 12px 20px;
+
+    background: #af2a01;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+
+@media (max-width: 768px) {
+    .extra {
+        grid-template-columns: 1fr;
+    }
+
+    .cards {
+        grid-template-columns: 1fr;
+    }
+}
+
+.footer {
+    background: #000;
+    padding: 80px 20px;
+
+    display: flex;
+    justify-content: center;
+
+    gap: 60px;
+    flex-wrap: wrap;
+}
+
+
+
+.form {
+    max-width: 350px;
+    text-align: center;
+}
+
+.form h4 {
+    color: #af2a01;
+    font-size: 4em;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.form p {
+    color: #ccc;
+    line-height: 1.6;
+    text-align: center;
+    font-size: 1em;
+}
+
+.contactgegevens {
+    margin-top: 25px;
+}
+
+.contactgegevens p {
+    margin: 8px 0;
+    color: white;
+    font-size: 1.2em;
+}
+
+.contact {
+    background: #111;
+    border: 1px solid #222;
+    border-radius: 20px;
+
+    padding: 30px;
+    width: 100%;
+    max-width: 600px;
+
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+}
+
+.group,
+.form-group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+.contact label {
+    color: white;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+
+.contact input,
+.contact textarea {
+    background: #1a1a1a;
+    border: 1px solid #333;
+    border-radius: 10px;
+
+    padding: 14px;
+    color: white;
+    font-size: 1rem;
+
+    transition: all 0.2s ease;
+}
+
+.contact input:focus,
+.contact textarea:focus {
+    outline: none;
+    border-color: #af2a01;
+    box-shadow: 0 0 0 3px rgba(175, 42, 1, 0.2);
+}
+
+.contact textarea {
+    resize: vertical;
+    min-height: 140px;
+}
+
+.contact-button {
+    background: #af2a01;
+    color: white;
+
+    border: none;
+    border-radius: 10px;
+
+    padding: 14px 24px;
+    font-size: 1rem;
+    font-weight: 600;
+
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.contact-button:hover {
+    background: #c83405;
+    transform: translateY(-2px);
+}
+
+.contact-button:active {
+    transform: translateY(0);
+}
+
+</style>
