@@ -1,0 +1,82 @@
+---
+import Layout from "../layouts/Layout.astro";
+import NewsCard from "../components/newscard.astro";
+import { newsArticles } from "../data/news-com.js";
+---
+
+<main>
+    <section class="news-hero">
+        <div class="news-hero_inner">
+            <h1>Nieuws</h1>
+            <p>Laatste verhalen, projecten en ontwikkelingen binnen Videlio</p>
+        </div>
+    </section>
+    <section class="news-section" aria-label="Nieuws artikelen">
+        <h2>Nieuwsartikelen</h2>
+        <!-- {newsArticles.map((article) => (
+            <NewsCard title={article.title} intro={article.intro} body={article.body} />
+        ))} -->
+        <div class="new-list">
+            {
+                newsArticles.map((article) => (
+                    <NewsCard
+                        title={article.title}
+                        intro={article.intro}
+                        body={article.body}
+                    />
+                ))
+            }
+        </div>
+    </section>
+</main>
+<style>
+    html,
+    body {
+        margin: 0;
+        padding: 0;
+        min-height: 100%;
+    }
+
+    body {
+        font-family: Georgia, serif;
+        background-color: #000;
+    }
+
+    * {
+        box-sizing: border-box;
+    }
+    .news-hero {
+        background-color: #000000;
+        padding: 4rem 2rem;
+        text-align: center;
+    }
+    .news-hero_inner {
+        max-width: 70rem;
+        margin: 0 auto;
+    }
+    .news-hero h1 {
+        color: #ffffff;
+        font-size: clamp(4.5rem, 18vw, 10rem);
+        line-height: 0.9;
+    }
+    .news-hero p {
+        margin: 1.5rem 0 0;
+        font-size: 1rem;
+        font-weight: 700;
+    }
+    .news-section {
+        background-color: #d91d0b;
+        padding: 3rem 1.5rem 5rem;
+    }
+    .new-list {
+        max-width: 52rem;
+        margin: 0 auto;
+        display: grid;
+        gap: 1.5rem;
+    }
+
+    /* .news-section h2 {
+        font-size: 2rem;
+        margin-bottom: 2rem;
+    } */
+</style>

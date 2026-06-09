@@ -1,0 +1,84 @@
+---
+import Layout from '../layouts/Layout.astro';
+const { title, intro, body } = Astro.props;
+---
+<article class="news-card">
+    <details>
+        <summary>
+            <div class="news-card-content">
+                <h2>{title}</h2>
+                <p>{intro}</p>
+            </div>
+            <span class="news-card_button" aria-hidden="true">+</span>
+        </summary>
+        <div class="news-card-body">
+            <p>{body}</p>
+        </div>
+    </details>
+</article>
+<style>
+    .news-card {
+    background-color: #ffffff;
+    color: #061b17;
+    border-radius: 0.75rem;
+    overflow: hidden;
+  }
+
+  .news-card summary {
+    display: flex;
+    justify-content: space-between;
+    gap: 1.5rem;
+    padding: 1.5rem;
+    cursor: pointer;
+    list-style: none;
+  }
+
+  .news-card summary::-webkit-details-marker {
+    display: none;
+  }
+  .news-card__label {
+    display: block;
+    margin-bottom: 1.5rem;
+    font-size: 0.9rem;
+    font-weight: 700;
+  }
+
+  .news-card h3 {
+    margin: 0 0 1rem;
+    color: #d5230f;
+    font-family: Georgia, serif;
+    font-size: clamp(1.8rem, 6vw, 3rem);
+    line-height: 1;
+  }
+
+  .news-card p {
+    margin: 0;
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+   .news-card__icon {
+    align-self: flex-end;
+    color: #d5230f;
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 1;
+  }
+
+  .news-card details[open] .news-card__icon {
+    transform: rotate(45deg);
+  }
+
+  .news-card-body {
+    border-top: 1px solid #dddddd;
+    padding: 1.5rem;
+  }
+  @media (min-width: 48rem) {
+    .news-card summary {
+      padding: 2rem;
+    }
+
+    .news-card-body {
+      padding: 2rem;
+    }
+  }
+</style>
