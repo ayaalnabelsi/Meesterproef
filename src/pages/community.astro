@@ -1,0 +1,272 @@
+---
+import Layout from "../layouts/Layout.astro";
+---
+
+<Layout title="Community page">
+    <header class="about-hero">
+        <div class="hero-content">
+            <span class="badge">Samen sterker</span>
+
+            <h1>Onze Community</h1>
+
+            <p>
+                Een groeiende gemeenschap van mensen met een visuele beperking,
+                vrijwilligers, makers en organisaties die samen bouwen aan een
+                inclusieve samenleving.
+            </p>
+
+            <a href="/contact" class="hero-btn"> Sluit je aan </a>
+        </div>
+    </header>
+
+    <section class="stats">
+        <div class="stat"><h3>100+</h3><p>Communityleden</p></div>
+        <div class="stat"><h3>20+</h3><p>Projecten</p></div>
+        <div class="stat"><h3>4</h3><p>Bestuursleden</p></div>
+        <div class="stat"><h3>∞</h3><p>Mogelijkheden</p></div>
+    </section>
+
+    <section class="about-intro">
+        <div class="about-text">
+            <h2>Even voorstellen</h2>
+
+            <p>
+                Stichting Videlio is opgericht door mensen met een visuele
+                beperking...
+            </p>
+
+            <p>
+                Onze kernpunten zijn bewustwording, participatie, ontmoeting en
+                innovatie...
+            </p>
+
+            <p>
+                John Willemse en Peter Meuleman zijn de oprichters van
+                Videlio...
+            </p>
+        </div>
+    </section>
+
+    <section class="mission-grid">
+        <article class="mission-card">
+            <h2>Onze missie</h2>
+            <p>Stichting Videlio streeft naar een inclusieve samenleving...</p>
+        </article>
+
+        <article class="mission-card">
+            <h2>Onze visie</h2>
+            <p>
+                Wij geloven in de kracht van samenwerking, innovatie en
+                ervaringsdeskundigheid...
+            </p>
+        </article>
+    </section>
+
+    <section class="team-section">
+        <div class="section-heading">
+            <h2>Ons bestuur</h2>
+            <p>
+                Mensen met ervaring, visie en motivatie die zich dagelijks
+                inzetten voor een inclusieve samenleving.
+            </p>
+        </div>
+
+        <div class="team-grid">
+            <article class="team-card">
+                <img src="src/images/hans.png" alt="Portret van Hans" />
+                <div class="team-content">
+                    <h3>Hans</h3>
+                    <span class="team-role">Bestuurslid</span>
+                    <p class="quote">
+                        “Toegankelijkheid voor iedereen in Eindhoven.”
+                    </p>
+                    <a href="mailto:hans@videlio.nl">Contact Hans</a>
+                </div>
+            </article>
+
+            <article class="team-card">
+                <img src="src/images/John.png" alt="John Willemse" />
+                <div class="team-content">
+                    <h3>John Willemse</h3>
+                    <span class="team-role">Oprichter</span>
+                    <p class="quote">“Maak het onmogelijke mogelijk!”</p>
+                    <a href="mailto:john@videlio.nl">Contact John</a>
+                </div>
+            </article>
+
+            <article class="team-card">
+                <img
+                    src="src/images/Peter-in-Stem-van-Grave-180x180-1.jpg"
+                    alt="Peter Meuleman"
+                />
+                <div class="team-content">
+                    <h3>Peter Meuleman</h3>
+                    <span class="team-role">Mede-oprichter</span>
+                    <p class="quote">“Je moet bewegen voor je kunt sturen.”</p>
+                    <a href="mailto:peter@videlio.nl">Contact Peter</a>
+                </div>
+            </article>
+
+            <article class="team-card">
+                <img src="src/images/Roger.jpg" alt="Roger Ravelli" />
+                <div class="team-content">
+                    <h3>Roger Ravelli</h3>
+                    <span class="team-role">Bestuurslid</span>
+                    <p class="quote">“Roeien met de riemen die je wel hebt.”</p>
+                    <a href="mailto:roger@videlio.nl">Contact Roger</a>
+                </div>
+            </article>
+        </div>
+    </section>
+
+    <style>
+        @font-face {
+            font-family: "young-serif";
+            src: url("fonts/young-serif.woff") format("woff");
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background: #000;
+            color: white;
+            line-height: 1.6;
+        }
+
+        .about-hero {
+            min-height: 70vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            padding: 100px 20px;
+            background: radial-gradient(
+                    circle at top,
+                    rgba(175, 42, 1, 0.4),
+                    transparent 60%
+                ),
+                #000;
+        }
+
+        .hero-content {
+            max-width: 850px;
+        }
+
+        .hero-btn {
+            display: inline-block;
+            padding: 16px 32px;
+            background: #af2a01;
+            border-radius: 12px;
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 24px;
+            margin: -60px 0 80px;
+            margin-inline: 40px;
+        }
+
+        .stat {
+            background: #111;
+            border-radius: 20px;
+            padding: 30px;
+            text-align: center;
+        }
+
+        .about-text {
+            background: linear-gradient(135deg, #af2a01, #d83b07);
+            border-radius: 28px;
+            padding: 40px;
+            padding-inline: 60px;
+            margin-inline: 40px;
+        }
+        .about-text h2 {
+            font-size: 40px;
+        }
+
+        .mission-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 30px;
+            margin-bottom: 100px;
+            padding-top: 7em;
+            padding-inline: 60px;
+            margin-inline: 30px;
+        }
+
+        .mission-card {
+            background: #111;
+            border-radius: 24px;
+            padding: 40px;
+        }
+
+        .mission-card h2{
+            font-size: 3em;
+        }
+
+        .team-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 30px;
+        }
+
+        .team-card {
+            background: #111;
+            border-radius: 24px;
+            text-align: center;
+            overflow: hidden;
+        }
+
+        .team-card img {
+            width: 160px;
+            height: 160px;
+            border-radius: 50%;
+            margin-top: 40px;
+            border: 5px solid #af2a01;
+        }
+
+        .team-content {
+            padding: 30px;
+    padding-bottom: 4em;
+        }
+
+        .section-heading h2{
+            font-size: 50px;
+            padding-left: 1em;
+        }
+
+        .section-heading p{
+            padding-left: 2em;
+        }
+
+        .team-content h3{
+            font-size: 2em;
+        }
+
+        .team-content a {
+    display: inline-block;
+    background-color: white;
+    color: #af2a01;
+    text-decoration: none;
+
+    padding: 12px 18px;
+    border-radius: 999px; /* mooi pill-vormig i.p.v. 30% */
+
+    font-weight: 600;
+    transition: 0.3s ease;
+}
+
+.team-content a:hover {
+    background-color: #af2a01;
+    color: white;
+    transform: translateY(-2px);
+}
+
+
+
+    </style>
+</Layout>
+
